@@ -1,0 +1,4328 @@
+{
+  "1": {
+    "name": "The Sad Onion",
+    "description": "",
+    "iconPath": "collectibles/collectibles_001.png",
+    "introducedIn": "rebirth"
+  },
+  "2": {
+    "name": "The Inner Eye",
+    "description": "Triple shot",
+    "iconPath": "collectibles/collectibles_002.png",
+    "introducedIn": "rebirth"
+  },
+  "3": {
+    "name": "Spoon Bender",
+    "description": "Homing tears",
+    "iconPath": "collectibles/collectibles_003.png",
+    "introducedIn": "rebirth"
+  },
+  "4": {
+    "name": "Cricket's Head",
+    "description": "",
+    "iconPath": "collectibles/collectibles_004.png",
+    "introducedIn": "rebirth"
+  },
+  "5": {
+    "name": "My Reflection",
+    "description": "Boomerang tears",
+    "iconPath": "collectibles/collectibles_005.png",
+    "introducedIn": "rebirth"
+  },
+  "6": {
+    "name": "Number One",
+    "description": "",
+    "iconPath": "collectibles/collectibles_006.png",
+    "introducedIn": "rebirth"
+  },
+  "7": {
+    "name": "Blood of the Martyr",
+    "description": "",
+    "iconPath": "collectibles/collectibles_007.png",
+    "introducedIn": "rebirth"
+  },
+  "8": {
+    "name": "Brother Bobby",
+    "description": "Familiar (3.5 dmg / tear)",
+    "iconPath": "collectibles/collectibles_008.png",
+    "introducedIn": "rebirth"
+  },
+  "9": {
+    "name": "Skatole",
+    "description": "Flies won't attack you",
+    "iconPath": "collectibles/collectibles_009.png",
+    "introducedIn": "rebirth"
+  },
+  "10": {
+    "name": "Halo of Flies",
+    "description": "Two non-damaging fly orbitals",
+    "iconPath": "collectibles/collectibles_010.png",
+    "introducedIn": "rebirth"
+  },
+  "11": {
+    "name": "1UP",
+    "description": "+1 life",
+    "iconPath": "collectibles/collectibles_011.png",
+    "introducedIn": "rebirth"
+  },
+  "12": {
+    "name": "Magic Mushroom",
+    "description": "Size up, full heal",
+    "iconPath": "collectibles/collectibles_012.png",
+    "introducedIn": "rebirth"
+  },
+  "13": {
+    "name": "The Virus",
+    "description": "Poison touch, enemies take 12 dmg on contact",
+    "iconPath": "collectibles/collectibles_013.png",
+    "introducedIn": "rebirth"
+  },
+  "14": {
+    "name": "Roid Rage",
+    "description": "",
+    "iconPath": "collectibles/collectibles_014.png",
+    "introducedIn": "rebirth"
+  },
+  "15": {
+    "name": "<3",
+    "description": "Full heal",
+    "iconPath": "collectibles/collectibles_015.png",
+    "introducedIn": "rebirth"
+  },
+  "16": {
+    "name": "Raw Liver",
+    "description": "Full heal",
+    "iconPath": "collectibles/collectibles_016.png",
+    "introducedIn": "rebirth"
+  },
+  "17": {
+    "name": "Skeleton Key",
+    "description": "+99 keys",
+    "iconPath": "collectibles/collectibles_017.png",
+    "introducedIn": "rebirth"
+  },
+  "18": {
+    "name": "A Dollar",
+    "description": "+99 cents",
+    "iconPath": "collectibles/collectibles_018.png",
+    "introducedIn": "rebirth"
+  },
+  "19": {
+    "name": "Boom!",
+    "description": "+10 bombs",
+    "iconPath": "collectibles/collectibles_019.png",
+    "introducedIn": "rebirth"
+  },
+  "20": {
+    "name": "Transcendence",
+    "description": "Flight",
+    "iconPath": "collectibles/collectibles_020.png",
+    "introducedIn": "rebirth"
+  },
+  "21": {
+    "name": "The Compass",
+    "description": "Reveals special rooms",
+    "iconPath": "collectibles/collectibles_021.png",
+    "introducedIn": "rebirth"
+  },
+  "22": {
+    "name": "Lunch",
+    "description": "",
+    "iconPath": "collectibles/collectibles_022.png",
+    "introducedIn": "rebirth"
+  },
+  "23": {
+    "name": "Dinner",
+    "description": "",
+    "iconPath": "collectibles/collectibles_023.png",
+    "introducedIn": "rebirth"
+  },
+  "24": {
+    "name": "Dessert",
+    "description": "",
+    "iconPath": "collectibles/collectibles_024.png",
+    "introducedIn": "rebirth"
+  },
+  "25": {
+    "name": "Breakfast",
+    "description": "",
+    "iconPath": "collectibles/collectibles_025.png",
+    "introducedIn": "rebirth"
+  },
+  "26": {
+    "name": "Rotten Meat",
+    "description": "",
+    "iconPath": "collectibles/collectibles_026.png",
+    "introducedIn": "rebirth"
+  },
+  "27": {
+    "name": "Wooden Spoon",
+    "description": "",
+    "iconPath": "collectibles/collectibles_027.png",
+    "introducedIn": "rebirth"
+  },
+  "28": {
+    "name": "The Belt",
+    "description": "",
+    "iconPath": "collectibles/collectibles_028.png",
+    "introducedIn": "rebirth"
+  },
+  "29": {
+    "name": "Mom's Underwear",
+    "description": "Spawn 3-6 blue flies on pickup",
+    "iconPath": "collectibles/collectibles_029.png",
+    "introducedIn": "rebirth"
+  },
+  "30": {
+    "name": "Mom's Heels",
+    "description": "Deals 12 damage to enemies coming into contact with the player",
+    "iconPath": "collectibles/collectibles_030.png",
+    "introducedIn": "rebirth"
+  },
+  "31": {
+    "name": "Mom's Lipstick",
+    "description": "Spawns a red heart on pickup",
+    "iconPath": "collectibles/collectibles_031.png",
+    "introducedIn": "rebirth"
+  },
+  "32": {
+    "name": "Wire Coat Hanger",
+    "description": "",
+    "iconPath": "collectibles/collectibles_032.png",
+    "introducedIn": "rebirth"
+  },
+  "33": {
+    "name": "The Bible",
+    "description": "Temporary flight, instantly kills Mom / It Lives!",
+    "iconPath": "collectibles/collectibles_033.png",
+    "introducedIn": "rebirth"
+  },
+  "34": {
+    "name": "The Book of Belial",
+    "description": "Temporary +2 dmg, +12.5% deal chance, 1.5x dmg with Blood of the Martyr",
+    "iconPath": "collectibles/collectibles_034.png",
+    "introducedIn": "rebirth"
+  },
+  "35": {
+    "name": "The Necronomicon",
+    "description": "Deals 40 dmg to the room",
+    "iconPath": "collectibles/collectibles_035.png",
+    "introducedIn": "rebirth"
+  },
+  "36": {
+    "name": "The Poop",
+    "description": "Makes a poop",
+    "iconPath": "collectibles/collectibles_036.png",
+    "introducedIn": "rebirth"
+  },
+  "37": {
+    "name": "Mr. Boom",
+    "description": "Spawns a big bomb (185 dmg)",
+    "iconPath": "collectibles/collectibles_037.png",
+    "introducedIn": "rebirth"
+  },
+  "38": {
+    "name": "Tammy's Head",
+    "description": "Shoots 10 tears (dmg + 25)",
+    "iconPath": "collectibles/collectibles_038.png",
+    "introducedIn": "rebirth"
+  },
+  "39": {
+    "name": "Mom's Bra",
+    "description": "Temporarily petrifies enemies",
+    "iconPath": "collectibles/collectibles_039.png",
+    "introducedIn": "rebirth"
+  },
+  "40": {
+    "name": "Kamikaze",
+    "description": ".5 heart dmg to yourself, 185 dmg explosion",
+    "iconPath": "collectibles/collectibles_040.png",
+    "introducedIn": "rebirth"
+  },
+  "41": {
+    "name": "Mom's Pad",
+    "description": "Temporarily fears enemies and spawns a blue fly on use",
+    "iconPath": "collectibles/collectibles_041.png",
+    "introducedIn": "rebirth"
+  },
+  "42": {
+    "name": "Bob's Rotten Head",
+    "description": "Shoots a poison bomb that leaves a poisoning gas cloud (185 dmg + 5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_042.png",
+    "introducedIn": "rebirth"
+  },
+  "44": {
+    "name": "Teleport!",
+    "description": "Can influence teleport direction based on player's direction",
+    "iconPath": "collectibles/collectibles_044.png",
+    "introducedIn": "rebirth"
+  },
+  "45": {
+    "name": "Yum Heart",
+    "description": "Heals 1 heart",
+    "iconPath": "collectibles/collectibles_045.png",
+    "introducedIn": "rebirth"
+  },
+  "46": {
+    "name": "Lucky Foot",
+    "description": "Better gambling chances, guarantee positive pills effects",
+    "iconPath": "collectibles/collectibles_046.png",
+    "introducedIn": "rebirth"
+  },
+  "47": {
+    "name": "Doctor's Remote",
+    "description": "Shoots a missile (20x dmg)",
+    "iconPath": "collectibles/collectibles_047.png",
+    "introducedIn": "rebirth"
+  },
+  "48": {
+    "name": "Cupid's Arrow",
+    "description": "Piercing tears",
+    "iconPath": "collectibles/collectibles_048.png",
+    "introducedIn": "rebirth"
+  },
+  "49": {
+    "name": "Shoop Da Whoop",
+    "description": "Shoots a blood laser (2x dmg / tick, 12 ticks)",
+    "iconPath": "collectibles/collectibles_049.png",
+    "introducedIn": "rebirth"
+  },
+  "50": {
+    "name": "Steven",
+    "description": "",
+    "iconPath": "collectibles/collectibles_050.png",
+    "introducedIn": "rebirth"
+  },
+  "51": {
+    "name": "Pentagram",
+    "description": "+10% deal chance",
+    "iconPath": "collectibles/collectibles_051.png",
+    "introducedIn": "rebirth"
+  },
+  "52": {
+    "name": "Dr. Fetus",
+    "description": "Bomb tears",
+    "iconPath": "collectibles/collectibles_052.png",
+    "introducedIn": "rebirth"
+  },
+  "53": {
+    "name": "Magneto",
+    "description": "Attracts pickups, open chests at close range",
+    "iconPath": "collectibles/collectibles_053.png",
+    "introducedIn": "rebirth"
+  },
+  "54": {
+    "name": "Treasure Map",
+    "description": "Reveals the floor layout",
+    "iconPath": "collectibles/collectibles_054.png",
+    "introducedIn": "rebirth"
+  },
+  "55": {
+    "name": "Mom's Eye",
+    "description": "Chance to shoot a 2nd tear backwards",
+    "iconPath": "collectibles/collectibles_055.png",
+    "introducedIn": "rebirth"
+  },
+  "56": {
+    "name": "Lemon Mishap",
+    "description": "Makes a pool of pee that persists in the room",
+    "iconPath": "collectibles/collectibles_056.png",
+    "introducedIn": "rebirth"
+  },
+  "57": {
+    "name": "Distant Admiration",
+    "description": "Orbital (5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_057.png",
+    "introducedIn": "rebirth"
+  },
+  "58": {
+    "name": "Book of Shadows",
+    "description": "Temporary invincibility",
+    "iconPath": "collectibles/collectibles_058.png",
+    "introducedIn": "rebirth"
+  },
+  "59": {
+    "name": "Book of Belial",
+    "description": "The Book of Belial from Judas Birthright",
+    "iconPath": "collectibles/collectibles_059.png",
+    "introducedIn": "repentance"
+  },
+  "60": {
+    "name": "The Ladder",
+    "description": "Allows you to cross gaps",
+    "iconPath": "collectibles/collectibles_060.png",
+    "introducedIn": "rebirth"
+  },
+  "62": {
+    "name": "Charm of the Vampire",
+    "description": "Heals half heart every 13 enemy deaths",
+    "iconPath": "collectibles/collectibles_062.png",
+    "introducedIn": "rebirth"
+  },
+  "63": {
+    "name": "The Battery",
+    "description": "Can double charge active items",
+    "iconPath": "collectibles/collectibles_063.png",
+    "introducedIn": "rebirth"
+  },
+  "64": {
+    "name": "Steam Sale",
+    "description": "Reduce shop items price where price = 1/(2^number of Steam sales)",
+    "iconPath": "collectibles/collectibles_064.png",
+    "introducedIn": "rebirth"
+  },
+  "65": {
+    "name": "Anarchist Cookbook",
+    "description": "Spawns 6 troll bombs",
+    "iconPath": "collectibles/collectibles_065.png",
+    "introducedIn": "rebirth"
+  },
+  "66": {
+    "name": "The Hourglass",
+    "description": "Temporarily slows enemies",
+    "iconPath": "collectibles/collectibles_066.png",
+    "introducedIn": "rebirth"
+  },
+  "67": {
+    "name": "Sister Maggy",
+    "description": "Familiar (6 dmg / tear)",
+    "iconPath": "collectibles/collectibles_067.png",
+    "introducedIn": "rebirth"
+  },
+  "68": {
+    "name": "Technology",
+    "description": "Laser tears (piercing)",
+    "iconPath": "collectibles/collectibles_068.png",
+    "introducedIn": "rebirth"
+  },
+  "69": {
+    "name": "Chocolate Milk",
+    "description": "Charge tears (max is 4x dmg and 2.5x delay)",
+    "iconPath": "collectibles/collectibles_069.png",
+    "introducedIn": "rebirth"
+  },
+  "70": {
+    "name": "Growth Hormones",
+    "description": "",
+    "iconPath": "collectibles/collectibles_070.png",
+    "introducedIn": "rebirth"
+  },
+  "71": {
+    "name": "Mini Mush",
+    "description": "Size down",
+    "iconPath": "collectibles/collectibles_071.png",
+    "introducedIn": "rebirth"
+  },
+  "72": {
+    "name": "Rosary",
+    "description": "Puts the bible into most item pools",
+    "iconPath": "collectibles/collectibles_072.png",
+    "introducedIn": "rebirth"
+  },
+  "73": {
+    "name": "Cube of Meat",
+    "description": "Orbital (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_073.png",
+    "introducedIn": "rebirth"
+  },
+  "74": {
+    "name": "A Quarter",
+    "description": "+25 cents",
+    "iconPath": "collectibles/collectibles_074.png",
+    "introducedIn": "rebirth"
+  },
+  "75": {
+    "name": "PhD",
+    "description": "Bad pills become good or neutral pill",
+    "iconPath": "collectibles/collectibles_075.png",
+    "introducedIn": "rebirth"
+  },
+  "76": {
+    "name": "X-Ray Vision",
+    "description": "Automatically opens secret and super secret rooms",
+    "iconPath": "collectibles/collectibles_076.png",
+    "introducedIn": "rebirth"
+  },
+  "77": {
+    "name": "My Little Unicorn",
+    "description": "Temporary invincibility, 20 contact dmg twice per second",
+    "iconPath": "collectibles/collectibles_077.png",
+    "introducedIn": "rebirth"
+  },
+  "78": {
+    "name": "Book of Revelations",
+    "description": "+1 soul heart on use, changes floor boss to a horseman (once per chapter)",
+    "iconPath": "collectibles/collectibles_078.png",
+    "introducedIn": "rebirth"
+  },
+  "79": {
+    "name": "The Mark",
+    "description": "",
+    "iconPath": "collectibles/collectibles_079.png",
+    "introducedIn": "rebirth"
+  },
+  "80": {
+    "name": "The Pact",
+    "description": "",
+    "iconPath": "collectibles/collectibles_080.png",
+    "introducedIn": "rebirth"
+  },
+  "81": {
+    "name": "Dead Cat",
+    "description": "+9 lives, sets red heart containers to 1",
+    "iconPath": "collectibles/collectibles_081.png",
+    "introducedIn": "rebirth"
+  },
+  "82": {
+    "name": "Lord of the Pit",
+    "description": "Grants fly",
+    "iconPath": "collectibles/collectibles_082.png",
+    "introducedIn": "rebirth"
+  },
+  "83": {
+    "name": "The Nail",
+    "description": "On use: +1 half black heart, temporarily crush rocks, temporary -0.18 speed and 0.7 dmg up",
+    "iconPath": "collectibles/collectibles_083.png",
+    "introducedIn": "rebirth"
+  },
+  "84": {
+    "name": "We Need To Go Deeper!",
+    "description": "Spawns a trapdoor (10% chance for crawlspace)",
+    "iconPath": "collectibles/collectibles_084.png",
+    "introducedIn": "rebirth"
+  },
+  "85": {
+    "name": "Deck of Cards",
+    "description": "Spawns a random card",
+    "iconPath": "collectibles/collectibles_085.png",
+    "introducedIn": "rebirth"
+  },
+  "86": {
+    "name": "Monstro's Tooth",
+    "description": "Summons monstro (120 dmg)",
+    "iconPath": "collectibles/collectibles_086.png",
+    "introducedIn": "rebirth"
+  },
+  "87": {
+    "name": "Loki's Horns",
+    "description": "Chance to shoot 4 tears instead of 1",
+    "iconPath": "collectibles/collectibles_087.png",
+    "introducedIn": "rebirth"
+  },
+  "88": {
+    "name": "Little Chubby",
+    "description": "Familiar (3.5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_088.png",
+    "introducedIn": "rebirth"
+  },
+  "89": {
+    "name": "Spider Bite",
+    "description": "Chance to shoot slowing tears",
+    "iconPath": "collectibles/collectibles_089.png",
+    "introducedIn": "rebirth"
+  },
+  "90": {
+    "name": "The Small Rock",
+    "description": "",
+    "iconPath": "collectibles/collectibles_090.png",
+    "introducedIn": "rebirth"
+  },
+  "91": {
+    "name": "Spelunker Hat",
+    "description": "Reveal all rooms that are in a 2 tiles radius and special rooms nearby on the map",
+    "iconPath": "collectibles/collectibles_091.png",
+    "introducedIn": "rebirth"
+  },
+  "92": {
+    "name": "Super Bandage",
+    "description": "",
+    "iconPath": "collectibles/collectibles_092.png",
+    "introducedIn": "rebirth"
+  },
+  "93": {
+    "name": "The Gamekid",
+    "description": "Temporary invincibility and enemies become scared, 20 contact dmg twice per second",
+    "iconPath": "collectibles/collectibles_093.png",
+    "introducedIn": "rebirth"
+  },
+  "94": {
+    "name": "Sack of Pennies",
+    "description": "Spawns a coin every 2 rooms cleared",
+    "iconPath": "collectibles/collectibles_094.png",
+    "introducedIn": "rebirth"
+  },
+  "95": {
+    "name": "Robo-Baby",
+    "description": "Familiar (3.5 dmg / laser)",
+    "iconPath": "collectibles/collectibles_095.png",
+    "introducedIn": "rebirth"
+  },
+  "96": {
+    "name": "Little C.H.A.D.",
+    "description": "Spawns a half red heart every 2 rooms cleared",
+    "iconPath": "collectibles/collectibles_096.png",
+    "introducedIn": "rebirth"
+  },
+  "97": {
+    "name": "The Book of Sin",
+    "description": "Spawns a random pickup",
+    "iconPath": "collectibles/collectibles_097.png",
+    "introducedIn": "rebirth"
+  },
+  "98": {
+    "name": "The Relic",
+    "description": "Spawns a soul heart every few rooms cleared",
+    "iconPath": "collectibles/collectibles_098.png",
+    "introducedIn": "rebirth"
+  },
+  "99": {
+    "name": "Little Gish",
+    "description": "Familiar (3.5 dmg / tear, chance to slow)",
+    "iconPath": "collectibles/collectibles_099.png",
+    "introducedIn": "rebirth"
+  },
+  "100": {
+    "name": "Little Steven",
+    "description": "Familiar (3.5 dmg / tear, homing tears)",
+    "iconPath": "collectibles/collectibles_100.png",
+    "introducedIn": "rebirth"
+  },
+  "101": {
+    "name": "The Halo",
+    "description": "",
+    "iconPath": "collectibles/collectibles_101.png",
+    "introducedIn": "rebirth"
+  },
+  "102": {
+    "name": "Mom's Bottle of Pills",
+    "description": "Spawns a random pill",
+    "iconPath": "collectibles/collectibles_102.png",
+    "introducedIn": "rebirth"
+  },
+  "103": {
+    "name": "The Common Cold",
+    "description": "Chance to shoot poison tears",
+    "iconPath": "collectibles/collectibles_103.png",
+    "introducedIn": "rebirth"
+  },
+  "104": {
+    "name": "The Parasite",
+    "description": "Tears split into 2 pieces, each does 1/4 dmg",
+    "iconPath": "collectibles/collectibles_104.png",
+    "introducedIn": "rebirth"
+  },
+  "105": {
+    "name": "The D6",
+    "description": "Rerolls pedestal items",
+    "iconPath": "collectibles/collectibles_105.png",
+    "introducedIn": "rebirth"
+  },
+  "106": {
+    "name": "Mr. Mega",
+    "description": "+5 bombs, bomb blast radius increased, bomb dmg increased from 100 to 185",
+    "iconPath": "collectibles/collectibles_106.png",
+    "introducedIn": "rebirth"
+  },
+  "107": {
+    "name": "Pinking Shears",
+    "description": "Spawns a melee familiar, speed of the body depends of player's speed",
+    "iconPath": "collectibles/collectibles_107.png",
+    "introducedIn": "rebirth"
+  },
+  "108": {
+    "name": "The Wafer",
+    "description": "All dmg is reduced to half a heart",
+    "iconPath": "collectibles/collectibles_108.png",
+    "introducedIn": "rebirth"
+  },
+  "109": {
+    "name": "Money = Power",
+    "description": "+0.04 dmg per coin held",
+    "iconPath": "collectibles/collectibles_109.png",
+    "introducedIn": "rebirth"
+  },
+  "110": {
+    "name": "Mom's Contacts",
+    "description": "Chance to shoot petrifying tears",
+    "iconPath": "collectibles/collectibles_110.png",
+    "introducedIn": "rebirth"
+  },
+  "111": {
+    "name": "The Bean",
+    "description": "Poison fart (26 dmg if the enemy is poisoned, 5 otherwise)",
+    "iconPath": "collectibles/collectibles_111.png",
+    "introducedIn": "rebirth"
+  },
+  "112": {
+    "name": "Guardian Angel",
+    "description": "Orbital (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_112.png",
+    "introducedIn": "rebirth"
+  },
+  "113": {
+    "name": "Demon Baby",
+    "description": "Familiar (3 dmg / tear)",
+    "iconPath": "collectibles/collectibles_113.png",
+    "introducedIn": "rebirth"
+  },
+  "114": {
+    "name": "Mom's Knife",
+    "description": "Replaces tears with a knife",
+    "iconPath": "collectibles/collectibles_114.png",
+    "introducedIn": "rebirth"
+  },
+  "115": {
+    "name": "Ouija Board",
+    "description": "Spectral tears",
+    "iconPath": "collectibles/collectibles_115.png",
+    "introducedIn": "rebirth"
+  },
+  "116": {
+    "name": "9 Volt",
+    "description": "Quicker charge, fully charges current item on pickup",
+    "iconPath": "collectibles/collectibles_116.png",
+    "introducedIn": "rebirth"
+  },
+  "117": {
+    "name": "Dead Bird",
+    "description": "Spawns a bird familiar when at half heart (1 for Eve) (2 dmg / tick)",
+    "iconPath": "collectibles/collectibles_117.png",
+    "introducedIn": "rebirth"
+  },
+  "118": {
+    "name": "Brimstone",
+    "description": "Tears become blood laser, hits 9 times",
+    "iconPath": "collectibles/collectibles_118.png",
+    "introducedIn": "rebirth"
+  },
+  "119": {
+    "name": "Blood Bag",
+    "description": "Heals 5 red hearts",
+    "iconPath": "collectibles/collectibles_119.png",
+    "introducedIn": "rebirth"
+  },
+  "120": {
+    "name": "Odd Mushroom (Thin)",
+    "description": "",
+    "iconPath": "collectibles/collectibles_120.png",
+    "introducedIn": "rebirth"
+  },
+  "121": {
+    "name": "Odd Mushroom (Thick)",
+    "description": "",
+    "iconPath": "collectibles/collectibles_121.png",
+    "introducedIn": "rebirth"
+  },
+  "122": {
+    "name": "Whore of Babylon",
+    "description": "Only active if at a half red heart or less",
+    "iconPath": "collectibles/collectibles_122.png",
+    "introducedIn": "rebirth"
+  },
+  "123": {
+    "name": "Monster Manual",
+    "description": "Summons a random familiar that stays for the entire floor",
+    "iconPath": "collectibles/collectibles_123.png",
+    "introducedIn": "rebirth"
+  },
+  "124": {
+    "name": "Dead Sea Scrolls",
+    "description": "Performs one effect between 32 active items",
+    "iconPath": "collectibles/collectibles_124.png",
+    "introducedIn": "rebirth"
+  },
+  "125": {
+    "name": "Bobby-Bomb",
+    "description": "+5 bombs, homing bombs",
+    "iconPath": "collectibles/collectibles_125.png",
+    "introducedIn": "rebirth"
+  },
+  "126": {
+    "name": "Razor Blade",
+    "description": "Deals 1 heart dmg (on first hit/room) and then 0.5 dmg to yourself, gives a temporary dmg up per use",
+    "iconPath": "collectibles/collectibles_126.png",
+    "introducedIn": "rebirth"
+  },
+  "127": {
+    "name": "Forget Me Now",
+    "description": "Generates a new floor, single use",
+    "iconPath": "collectibles/collectibles_127.png",
+    "introducedIn": "rebirth"
+  },
+  "128": {
+    "name": "Forever Alone",
+    "description": "Orbital (2 dmg / tick)",
+    "iconPath": "collectibles/collectibles_128.png",
+    "introducedIn": "rebirth"
+  },
+  "129": {
+    "name": "Bucket of Lard",
+    "description": "",
+    "iconPath": "collectibles/collectibles_129.png",
+    "introducedIn": "rebirth"
+  },
+  "130": {
+    "name": "A Pony",
+    "description": "Grants fly, minimum speed 1.5, deals player's damage * 4 + 28 while charging enemies",
+    "iconPath": "collectibles/collectibles_130.png",
+    "introducedIn": "rebirth"
+  },
+  "131": {
+    "name": "Bomb Bag",
+    "description": "Spawns a bomb every few rooms cleared",
+    "iconPath": "collectibles/collectibles_131.png",
+    "introducedIn": "rebirth"
+  },
+  "132": {
+    "name": "A Lump of Coal",
+    "description": "dmg up up to +25% based on tear distance",
+    "iconPath": "collectibles/collectibles_132.png",
+    "introducedIn": "rebirth"
+  },
+  "133": {
+    "name": "Guppy's Paw",
+    "description": "-1 red heart container and +3 soul hearts on use",
+    "iconPath": "collectibles/collectibles_133.png",
+    "introducedIn": "rebirth"
+  },
+  "134": {
+    "name": "Guppy's Tail",
+    "description": "Increased chance to find chests",
+    "iconPath": "collectibles/collectibles_134.png",
+    "introducedIn": "rebirth"
+  },
+  "135": {
+    "name": "IV Bag",
+    "description": "Spawns coins and deals dmg to yourself",
+    "iconPath": "collectibles/collectibles_135.png",
+    "introducedIn": "rebirth"
+  },
+  "136": {
+    "name": "Best Friend",
+    "description": "Spawns a decoy (185 dmg)",
+    "iconPath": "collectibles/collectibles_136.png",
+    "introducedIn": "rebirth"
+  },
+  "137": {
+    "name": "Remote Detonator",
+    "description": "+5 bombs, manually detonate bombs",
+    "iconPath": "collectibles/collectibles_137.png",
+    "introducedIn": "rebirth"
+  },
+  "138": {
+    "name": "Stigmata",
+    "description": "",
+    "iconPath": "collectibles/collectibles_138.png",
+    "introducedIn": "rebirth"
+  },
+  "139": {
+    "name": "Mom's Purse",
+    "description": "Spawns a trinket",
+    "iconPath": "collectibles/collectibles_139.png",
+    "introducedIn": "rebirth"
+  },
+  "140": {
+    "name": "Bob's Curse",
+    "description": "+5 bombs, bombs deal poison dmg and leave poisoning gas cloud behind them",
+    "iconPath": "collectibles/collectibles_140.png",
+    "introducedIn": "rebirth"
+  },
+  "141": {
+    "name": "Pageant Boy",
+    "description": "Spawns 7 coins and a penny trinket",
+    "iconPath": "collectibles/collectibles_141.png",
+    "introducedIn": "rebirth"
+  },
+  "142": {
+    "name": "Scapular",
+    "description": "+1 soul heart if hit to half a red heart (once per room)",
+    "iconPath": "collectibles/collectibles_142.png",
+    "introducedIn": "rebirth"
+  },
+  "143": {
+    "name": "Speed Ball",
+    "description": "",
+    "iconPath": "collectibles/collectibles_143.png",
+    "introducedIn": "rebirth"
+  },
+  "144": {
+    "name": "Bum Friend",
+    "description": "Turns coins into other pickups or items from the beggar pool",
+    "iconPath": "collectibles/collectibles_144.png",
+    "introducedIn": "rebirth"
+  },
+  "145": {
+    "name": "Guppy's Head",
+    "description": "Spawn 2-4 blue flies",
+    "iconPath": "collectibles/collectibles_145.png",
+    "introducedIn": "rebirth"
+  },
+  "146": {
+    "name": "Prayer Card",
+    "description": "Gives an eternal heart",
+    "iconPath": "collectibles/collectibles_146.png",
+    "introducedIn": "rebirth"
+  },
+  "147": {
+    "name": "Notched Axe",
+    "description": "Melee weapon that damage enemies, break rocks and open doors",
+    "iconPath": "collectibles/collectibles_147.png",
+    "introducedIn": "rebirth"
+  },
+  "148": {
+    "name": "Infestation",
+    "description": "Spawns 2-6 blue flies when hit",
+    "iconPath": "collectibles/collectibles_148.png",
+    "introducedIn": "rebirth"
+  },
+  "149": {
+    "name": "Ipecac",
+    "description": "Explosive tears",
+    "iconPath": "collectibles/collectibles_149.png",
+    "introducedIn": "rebirth"
+  },
+  "150": {
+    "name": "Tough Love",
+    "description": "Chance to shoot teeth tears (3.2x dmg)",
+    "iconPath": "collectibles/collectibles_150.png",
+    "introducedIn": "rebirth"
+  },
+  "151": {
+    "name": "The Mulligan",
+    "description": "1/6 chance for blue fly on tear hit",
+    "iconPath": "collectibles/collectibles_151.png",
+    "introducedIn": "rebirth"
+  },
+  "152": {
+    "name": "Technology 2",
+    "description": "Right eye shoots a permanent laser (piercing)",
+    "iconPath": "collectibles/collectibles_152.png",
+    "introducedIn": "rebirth"
+  },
+  "153": {
+    "name": "Mutant Spider",
+    "description": "Quad shot",
+    "iconPath": "collectibles/collectibles_153.png",
+    "introducedIn": "rebirth"
+  },
+  "154": {
+    "name": "Chemical Peel",
+    "description": "+2 flat dmg every 2nd shot",
+    "iconPath": "collectibles/collectibles_154.png",
+    "introducedIn": "rebirth"
+  },
+  "155": {
+    "name": "The Peeper",
+    "description": "Familiar (8 dmg / tick)",
+    "iconPath": "collectibles/collectibles_155.png",
+    "introducedIn": "rebirth"
+  },
+  "156": {
+    "name": "Habit",
+    "description": "Recharge one tick of your active item when hit",
+    "iconPath": "collectibles/collectibles_156.png",
+    "introducedIn": "rebirth"
+  },
+  "157": {
+    "name": "Bloody Lust",
+    "description": "dmg up when hit (only for the current floor, max +6 dmg at 6 hits)",
+    "iconPath": "collectibles/collectibles_157.png",
+    "introducedIn": "rebirth"
+  },
+  "158": {
+    "name": "Crystal Ball",
+    "description": "Reveals the floor, spawns a card / rune / soul heart",
+    "iconPath": "collectibles/collectibles_158.png",
+    "introducedIn": "rebirth"
+  },
+  "159": {
+    "name": "Spirit of the Night",
+    "description": "Flight, spectral tears",
+    "iconPath": "collectibles/collectibles_159.png",
+    "introducedIn": "rebirth"
+  },
+  "160": {
+    "name": "Crack The Sky",
+    "description": "Creates 5 beams (base dmg + 20 dmg / tick)",
+    "iconPath": "collectibles/collectibles_160.png",
+    "introducedIn": "rebirth"
+  },
+  "161": {
+    "name": "Ankh",
+    "description": "+1 life (will respawn as Blue Baby)",
+    "iconPath": "collectibles/collectibles_161.png",
+    "introducedIn": "rebirth"
+  },
+  "162": {
+    "name": "Celtic Cross",
+    "description": "Chance for shield when hit (based on luck)",
+    "iconPath": "collectibles/collectibles_162.png",
+    "introducedIn": "rebirth"
+  },
+  "163": {
+    "name": "Ghost Baby",
+    "description": "Familiar (3.5 dmg / tear)",
+    "iconPath": "collectibles/collectibles_163.png",
+    "introducedIn": "rebirth"
+  },
+  "164": {
+    "name": "The Candle",
+    "description": "Shoots a blue flame",
+    "iconPath": "collectibles/collectibles_164.png",
+    "introducedIn": "rebirth"
+  },
+  "165": {
+    "name": "Cat-o-nine-tails",
+    "description": "",
+    "iconPath": "collectibles/collectibles_165.png",
+    "introducedIn": "rebirth"
+  },
+  "166": {
+    "name": "D20",
+    "description": "Rerolls pickups",
+    "iconPath": "collectibles/collectibles_166.png",
+    "introducedIn": "rebirth"
+  },
+  "167": {
+    "name": "Harlequin Baby",
+    "description": "Familiar (4 dmg / tear)",
+    "iconPath": "collectibles/collectibles_167.png",
+    "introducedIn": "rebirth"
+  },
+  "168": {
+    "name": "Epic Fetus",
+    "description": "Replaces tears with missiles (20x dmg)",
+    "iconPath": "collectibles/collectibles_168.png",
+    "introducedIn": "rebirth"
+  },
+  "169": {
+    "name": "Polyphemus",
+    "description": "Excess damage pierces",
+    "iconPath": "collectibles/collectibles_169.png",
+    "introducedIn": "rebirth"
+  },
+  "170": {
+    "name": "Daddy Longlegs",
+    "description": "Familiar (40 dmg / stomp)",
+    "iconPath": "collectibles/collectibles_170.png",
+    "introducedIn": "rebirth"
+  },
+  "171": {
+    "name": "Spider Butt",
+    "description": "Temporarily slows enemies and deals 10 dmg, killed enemies by the item spawn blue spiders",
+    "iconPath": "collectibles/collectibles_171.png",
+    "introducedIn": "rebirth"
+  },
+  "172": {
+    "name": "Sacrificial Dagger",
+    "description": "Orbital (15 dmg / tick)",
+    "iconPath": "collectibles/collectibles_172.png",
+    "introducedIn": "rebirth"
+  },
+  "173": {
+    "name": "Mitre",
+    "description": "33% to change red heart drop into soul heart",
+    "iconPath": "collectibles/collectibles_173.png",
+    "introducedIn": "rebirth"
+  },
+  "174": {
+    "name": "Rainbow Baby",
+    "description": "Familiar (shoots random tears)",
+    "iconPath": "collectibles/collectibles_174.png",
+    "introducedIn": "rebirth"
+  },
+  "175": {
+    "name": "Dad's Key",
+    "description": "Opens almost all doors",
+    "iconPath": "collectibles/collectibles_175.png",
+    "introducedIn": "rebirth"
+  },
+  "176": {
+    "name": "Stem Cells",
+    "description": "",
+    "iconPath": "collectibles/collectibles_176.png",
+    "introducedIn": "rebirth"
+  },
+  "177": {
+    "name": "Portable Slot",
+    "description": "Acts like a Slot Machine",
+    "iconPath": "collectibles/collectibles_177.png",
+    "introducedIn": "rebirth"
+  },
+  "178": {
+    "name": "Holy Water",
+    "description": "Can be thrown, creates a pool when broken (8 dmg / tick) that also petrify enemies",
+    "iconPath": "collectibles/collectibles_178.png",
+    "introducedIn": "rebirth"
+  },
+  "179": {
+    "name": "Fate",
+    "description": "Flight, eternal heart",
+    "iconPath": "collectibles/collectibles_179.png",
+    "introducedIn": "rebirth"
+  },
+  "180": {
+    "name": "The Black Bean",
+    "description": "Release multiple farts and poisonous gas when hit",
+    "iconPath": "collectibles/collectibles_180.png",
+    "introducedIn": "rebirth"
+  },
+  "181": {
+    "name": "White Pony",
+    "description": "Grants fly, minimum speed 1.5, leaves trail of light beams that deals player's damage * 4 + 10 on use",
+    "iconPath": "collectibles/collectibles_181.png",
+    "introducedIn": "rebirth"
+  },
+  "182": {
+    "name": "Sacred Heart",
+    "description": "full heal",
+    "iconPath": "collectibles/collectibles_182.png",
+    "introducedIn": "rebirth"
+  },
+  "183": {
+    "name": "Toothpicks",
+    "description": "",
+    "iconPath": "collectibles/collectibles_183.png",
+    "introducedIn": "rebirth"
+  },
+  "184": {
+    "name": "Holy Grail",
+    "description": "flight",
+    "iconPath": "collectibles/collectibles_184.png",
+    "introducedIn": "rebirth"
+  },
+  "185": {
+    "name": "Dead Dove",
+    "description": "Flight, spectral tears",
+    "iconPath": "collectibles/collectibles_185.png",
+    "introducedIn": "rebirth"
+  },
+  "186": {
+    "name": "Blood Rights",
+    "description": "Deals 1 heart dmg (on first hit/room) and then 0.5 dmg to yourself, deals 40 dmg to all enemies, tears up on use",
+    "iconPath": "collectibles/collectibles_186.png",
+    "introducedIn": "rebirth"
+  },
+  "187": {
+    "name": "Guppy's Hairball",
+    "description": "Familiar (5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_187.png",
+    "introducedIn": "rebirth"
+  },
+  "188": {
+    "name": "Abel",
+    "description": "Familiar (3.5 dmg / tear, 7.5 dmg if picked by Cain or T. Cain)",
+    "iconPath": "collectibles/collectibles_188.png",
+    "introducedIn": "rebirth"
+  },
+  "189": {
+    "name": "SMB Super Fan",
+    "description": "full heal",
+    "iconPath": "collectibles/collectibles_189.png",
+    "introducedIn": "rebirth"
+  },
+  "190": {
+    "name": "Pyro",
+    "description": "+99 bombs",
+    "iconPath": "collectibles/collectibles_190.png",
+    "introducedIn": "rebirth"
+  },
+  "191": {
+    "name": "3 Dollar Bill",
+    "description": "Random tear effects that change every 3 seconds",
+    "iconPath": "collectibles/collectibles_191.png",
+    "introducedIn": "rebirth"
+  },
+  "192": {
+    "name": "Telepathy for Dummies",
+    "description": "Temporary homing tears and range up",
+    "iconPath": "collectibles/collectibles_192.png",
+    "introducedIn": "rebirth"
+  },
+  "193": {
+    "name": "Meat!",
+    "description": "",
+    "iconPath": "collectibles/collectibles_193.png",
+    "introducedIn": "rebirth"
+  },
+  "194": {
+    "name": "Magic 8 Ball",
+    "description": "Spawns a random card on pickup",
+    "iconPath": "collectibles/collectibles_194.png",
+    "introducedIn": "rebirth"
+  },
+  "195": {
+    "name": "Mom's Coin Purse",
+    "description": "Spawns 4 random pills on pickup",
+    "iconPath": "collectibles/collectibles_195.png",
+    "introducedIn": "rebirth"
+  },
+  "196": {
+    "name": "Squeezy",
+    "description": "",
+    "iconPath": "collectibles/collectibles_196.png",
+    "introducedIn": "rebirth"
+  },
+  "197": {
+    "name": "Jesus Juice",
+    "description": "",
+    "iconPath": "collectibles/collectibles_197.png",
+    "introducedIn": "rebirth"
+  },
+  "198": {
+    "name": "Box",
+    "description": "Spawns 1 coin, 1 key, 1 bomb, 1 heart, 1 card, 1 pill, and 1 trinket on pickup",
+    "iconPath": "collectibles/collectibles_198.png",
+    "introducedIn": "rebirth"
+  },
+  "199": {
+    "name": "Mom's Key",
+    "description": "More pickups from chests, spawns 2 keys on pickup",
+    "iconPath": "collectibles/collectibles_199.png",
+    "introducedIn": "rebirth"
+  },
+  "200": {
+    "name": "Mom's Eyeshadow",
+    "description": "Chance to shoot charm tears",
+    "iconPath": "collectibles/collectibles_200.png",
+    "introducedIn": "rebirth"
+  },
+  "201": {
+    "name": "Iron Bar",
+    "description": "Chance to shoot confusion tears",
+    "iconPath": "collectibles/collectibles_201.png",
+    "introducedIn": "rebirth"
+  },
+  "202": {
+    "name": "Midas Touch",
+    "description": "Contact dmg equal to number of cents held",
+    "iconPath": "collectibles/collectibles_202.png",
+    "introducedIn": "rebirth"
+  },
+  "203": {
+    "name": "Humbling Bundle",
+    "description": "Chance to double coin, key, bomb, and heart pickups",
+    "iconPath": "collectibles/collectibles_203.png",
+    "introducedIn": "rebirth"
+  },
+  "204": {
+    "name": "Fanny Pack",
+    "description": "Chance to spawn a coin, bomb, or key when hit",
+    "iconPath": "collectibles/collectibles_204.png",
+    "introducedIn": "rebirth"
+  },
+  "205": {
+    "name": "Sharp Plug",
+    "description": "Deals half heart dmg to self per charge missing, fully recharges item",
+    "iconPath": "collectibles/collectibles_205.png",
+    "introducedIn": "rebirth"
+  },
+  "206": {
+    "name": "Guillotine",
+    "description": "Orbital (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_206.png",
+    "introducedIn": "rebirth"
+  },
+  "207": {
+    "name": "Ball of Bandages",
+    "description": "Orbital (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_207.png",
+    "introducedIn": "rebirth"
+  },
+  "208": {
+    "name": "Champion Belt",
+    "description": "Greater chance of champion enemies",
+    "iconPath": "collectibles/collectibles_208.png",
+    "introducedIn": "rebirth"
+  },
+  "209": {
+    "name": "Butt Bombs",
+    "description": "+5 bombs, bombs confuse all enemies, bombs deal 10 dmg to all enemies",
+    "iconPath": "collectibles/collectibles_209.png",
+    "introducedIn": "rebirth"
+  },
+  "210": {
+    "name": "Gnawed Leaf",
+    "description": "Turn invincible by standing still",
+    "iconPath": "collectibles/collectibles_210.png",
+    "introducedIn": "rebirth"
+  },
+  "211": {
+    "name": "Spiderbaby",
+    "description": "Spawns 2-5 blue spiders when hit",
+    "iconPath": "collectibles/collectibles_211.png",
+    "introducedIn": "rebirth"
+  },
+  "212": {
+    "name": "Guppy's Collar",
+    "description": "50% chance to respawn with 1/2 soul heart",
+    "iconPath": "collectibles/collectibles_212.png",
+    "introducedIn": "rebirth"
+  },
+  "213": {
+    "name": "Lost Contact",
+    "description": "Tears can hit enemy tears",
+    "iconPath": "collectibles/collectibles_213.png",
+    "introducedIn": "rebirth"
+  },
+  "214": {
+    "name": "Anemic",
+    "description": "Makes a trail of creep when hit",
+    "iconPath": "collectibles/collectibles_214.png",
+    "introducedIn": "rebirth"
+  },
+  "215": {
+    "name": "Goat Head",
+    "description": "Devil/Angel Rooms are always open",
+    "iconPath": "collectibles/collectibles_215.png",
+    "introducedIn": "rebirth"
+  },
+  "216": {
+    "name": "Ceremonial Robes",
+    "description": "",
+    "iconPath": "collectibles/collectibles_216.png",
+    "introducedIn": "rebirth"
+  },
+  "217": {
+    "name": "Mom's Wig",
+    "description": "Chance to spawn blue spiders when shooting",
+    "iconPath": "collectibles/collectibles_217.png",
+    "introducedIn": "rebirth"
+  },
+  "218": {
+    "name": "Placenta",
+    "description": "Chance to heal half a heart every minute",
+    "iconPath": "collectibles/collectibles_218.png",
+    "introducedIn": "rebirth"
+  },
+  "219": {
+    "name": "Old Bandage",
+    "description": "Chance to drop a red heart on hit",
+    "iconPath": "collectibles/collectibles_219.png",
+    "introducedIn": "rebirth"
+  },
+  "220": {
+    "name": "Sad Bombs",
+    "description": "+5 bombs, bombs shoot out 8 tears",
+    "iconPath": "collectibles/collectibles_220.png",
+    "introducedIn": "rebirth"
+  },
+  "221": {
+    "name": "Rubber Cement",
+    "description": "Bouncy tears (tears bounce off rocks/walls)",
+    "iconPath": "collectibles/collectibles_221.png",
+    "introducedIn": "rebirth"
+  },
+  "222": {
+    "name": "Anti-Gravity",
+    "description": "Hovering tears",
+    "iconPath": "collectibles/collectibles_222.png",
+    "introducedIn": "rebirth"
+  },
+  "223": {
+    "name": "Pyromaniac",
+    "description": "+5 bombs, explosions heal 1 half red heart, fire and bomb immunity",
+    "iconPath": "collectibles/collectibles_223.png",
+    "introducedIn": "rebirth"
+  },
+  "224": {
+    "name": "Cricket's Body",
+    "description": "Shots split into 4 pieces, each deals 1/2 dmg",
+    "iconPath": "collectibles/collectibles_224.png",
+    "introducedIn": "rebirth"
+  },
+  "225": {
+    "name": "Gimpy",
+    "description": "Chance to spawn soul hearts on hit, chance for enemies to drop half a red heart",
+    "iconPath": "collectibles/collectibles_225.png",
+    "introducedIn": "rebirth"
+  },
+  "226": {
+    "name": "Black Lotus",
+    "description": "",
+    "iconPath": "collectibles/collectibles_226.png",
+    "introducedIn": "rebirth"
+  },
+  "227": {
+    "name": "Piggy Bank",
+    "description": "+3 cents, 1-2 pennies spawn on hit",
+    "iconPath": "collectibles/collectibles_227.png",
+    "introducedIn": "rebirth"
+  },
+  "228": {
+    "name": "Mom's Perfume",
+    "description": "Chance to shoot fear tears",
+    "iconPath": "collectibles/collectibles_228.png",
+    "introducedIn": "rebirth"
+  },
+  "229": {
+    "name": "Monstro's Lung",
+    "description": "Charged tear spray",
+    "iconPath": "collectibles/collectibles_229.png",
+    "introducedIn": "rebirth"
+  },
+  "230": {
+    "name": "Abaddon",
+    "description": "Convert all red hearts to black hearts, chance to shoot fear tears",
+    "iconPath": "collectibles/collectibles_230.png",
+    "introducedIn": "rebirth"
+  },
+  "231": {
+    "name": "Ball of Tar",
+    "description": "Chance to shoot slowing tears, makes a trail of slowing creep",
+    "iconPath": "collectibles/collectibles_231.png",
+    "introducedIn": "rebirth"
+  },
+  "232": {
+    "name": "Stop Watch",
+    "description": "Slows enemies",
+    "iconPath": "collectibles/collectibles_232.png",
+    "introducedIn": "rebirth"
+  },
+  "233": {
+    "name": "Tiny Planet",
+    "description": "Orbiting tears",
+    "iconPath": "collectibles/collectibles_233.png",
+    "introducedIn": "rebirth"
+  },
+  "234": {
+    "name": "Infestation 2",
+    "description": "Spawns a blue spider on enemy death",
+    "iconPath": "collectibles/collectibles_234.png",
+    "introducedIn": "rebirth"
+  },
+  "236": {
+    "name": "E. Coli",
+    "description": "Enemies turn to poop on touch",
+    "iconPath": "collectibles/collectibles_236.png",
+    "introducedIn": "rebirth"
+  },
+  "237": {
+    "name": "Death's Touch",
+    "description": "Scythe tears (piercing)",
+    "iconPath": "collectibles/collectibles_237.png",
+    "introducedIn": "rebirth"
+  },
+  "238": {
+    "name": "Key Piece #1",
+    "description": "Both key pieces together unlock the door to Mega Satan",
+    "iconPath": "collectibles/collectibles_238.png",
+    "introducedIn": "rebirth"
+  },
+  "239": {
+    "name": "Key Piece #2",
+    "description": "Both key pieces together unlock the door to Mega Satan",
+    "iconPath": "collectibles/collectibles_239.png",
+    "introducedIn": "rebirth"
+  },
+  "240": {
+    "name": "Experimental Treatment",
+    "description": "Randomly increases or decreases each stats",
+    "iconPath": "collectibles/collectibles_240.png",
+    "introducedIn": "rebirth"
+  },
+  "241": {
+    "name": "Contract From Below",
+    "description": "Doubles pickups",
+    "iconPath": "collectibles/collectibles_241.png",
+    "introducedIn": "rebirth"
+  },
+  "242": {
+    "name": "Infamy",
+    "description": "Chance to block a projectile (from any direction)",
+    "iconPath": "collectibles/collectibles_242.png",
+    "introducedIn": "rebirth"
+  },
+  "243": {
+    "name": "Trinity Shield",
+    "description": "Blocks all projectiles from the front",
+    "iconPath": "collectibles/collectibles_243.png",
+    "introducedIn": "rebirth"
+  },
+  "244": {
+    "name": "Tech.5",
+    "description": "Chance to shoot an additional laser (scales with dmg, ignores tear rate)",
+    "iconPath": "collectibles/collectibles_244.png",
+    "introducedIn": "rebirth"
+  },
+  "245": {
+    "name": "20/20",
+    "description": "Double shot",
+    "iconPath": "collectibles/collectibles_245.png",
+    "introducedIn": "rebirth"
+  },
+  "246": {
+    "name": "Blue Map",
+    "description": "Reveals Secret and Super Secret Rooms",
+    "iconPath": "collectibles/collectibles_246.png",
+    "introducedIn": "rebirth"
+  },
+  "247": {
+    "name": "BFFS!",
+    "description": "Familiars do 2x dmg",
+    "iconPath": "collectibles/collectibles_247.png",
+    "introducedIn": "rebirth"
+  },
+  "248": {
+    "name": "Hive Mind",
+    "description": "Blue spiders and flies do 2x dmg",
+    "iconPath": "collectibles/collectibles_248.png",
+    "introducedIn": "rebirth"
+  },
+  "249": {
+    "name": "There's Options",
+    "description": "Choice of 2 items after each boss",
+    "iconPath": "collectibles/collectibles_249.png",
+    "introducedIn": "rebirth"
+  },
+  "250": {
+    "name": "Bogo Bombs",
+    "description": "Doubles bomb pickups",
+    "iconPath": "collectibles/collectibles_250.png",
+    "introducedIn": "rebirth"
+  },
+  "251": {
+    "name": "Starter Deck",
+    "description": "Pills become cards, can carry 2 cards instead of 1",
+    "iconPath": "collectibles/collectibles_251.png",
+    "introducedIn": "rebirth"
+  },
+  "252": {
+    "name": "Little Baggy",
+    "description": "Cards become pills, can carry 2 pills instead of 1",
+    "iconPath": "collectibles/collectibles_252.png",
+    "introducedIn": "rebirth"
+  },
+  "253": {
+    "name": "Magic Scab",
+    "description": "",
+    "iconPath": "collectibles/collectibles_253.png",
+    "introducedIn": "rebirth"
+  },
+  "254": {
+    "name": "Blood Clot",
+    "description": "+1 flat dmg and +5 range for every 2nd shot",
+    "iconPath": "collectibles/collectibles_254.png",
+    "introducedIn": "rebirth"
+  },
+  "255": {
+    "name": "Screw",
+    "description": "",
+    "iconPath": "collectibles/collectibles_255.png",
+    "introducedIn": "rebirth"
+  },
+  "256": {
+    "name": "Hot Bombs",
+    "description": "+5 bombs, leaves fires that do 22 dmg, 16 dmg contact, fire immunity",
+    "iconPath": "collectibles/collectibles_256.png",
+    "introducedIn": "rebirth"
+  },
+  "257": {
+    "name": "Fire Mind",
+    "description": "Burns enemies, chance to shoot exploding tears (2x dmg + 22)",
+    "iconPath": "collectibles/collectibles_257.png",
+    "introducedIn": "rebirth"
+  },
+  "258": {
+    "name": "Missing No.",
+    "description": "Rerolls your items on pickup and on the start of every floor",
+    "iconPath": "collectibles/collectibles_258.png",
+    "introducedIn": "rebirth"
+  },
+  "259": {
+    "name": "Dark Matter",
+    "description": "Chance to shoot fear tears",
+    "iconPath": "collectibles/collectibles_259.png",
+    "introducedIn": "rebirth"
+  },
+  "260": {
+    "name": "Black Candle",
+    "description": "Removes all floor curses, +15% deal chance",
+    "iconPath": "collectibles/collectibles_260.png",
+    "introducedIn": "rebirth"
+  },
+  "261": {
+    "name": "Proptosis",
+    "description": "dmg goes from 300% to 0 the further the tear goes",
+    "iconPath": "collectibles/collectibles_261.png",
+    "introducedIn": "rebirth"
+  },
+  "262": {
+    "name": "Missing Page 2",
+    "description": "Deals 80 dmg to enemies when hit if at 1 heart or lower and increase all kind of black heart dmg from 40 to 80",
+    "iconPath": "collectibles/collectibles_262.png",
+    "introducedIn": "rebirth"
+  },
+  "263": {
+    "name": "Clear Rune",
+    "description": "Mimics the effect of the currently held rune",
+    "iconPath": "collectibles/collectibles_263.png",
+    "introducedIn": "repentance"
+  },
+  "264": {
+    "name": "Smart Fly",
+    "description": "Spawns a fly familiar when hit (1.5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_264.png",
+    "introducedIn": "rebirth"
+  },
+  "265": {
+    "name": "Dry Baby",
+    "description": "Blocks projectiles, chance to deal 40 dmg to the room on block",
+    "iconPath": "collectibles/collectibles_265.png",
+    "introducedIn": "rebirth"
+  },
+  "266": {
+    "name": "Juicy Sack",
+    "description": "Spawns 1-2 blue spiders every room cleared, makes a trail of slowing creep",
+    "iconPath": "collectibles/collectibles_266.png",
+    "introducedIn": "rebirth"
+  },
+  "267": {
+    "name": "Robo-Baby 2.0",
+    "description": "Familiar (3.5 dmg / laser)",
+    "iconPath": "collectibles/collectibles_267.png",
+    "introducedIn": "rebirth"
+  },
+  "268": {
+    "name": "Rotten Baby",
+    "description": "Familiar (shoots blue flies)",
+    "iconPath": "collectibles/collectibles_268.png",
+    "introducedIn": "rebirth"
+  },
+  "269": {
+    "name": "Headless Baby",
+    "description": "Makes a trail of creep",
+    "iconPath": "collectibles/collectibles_269.png",
+    "introducedIn": "rebirth"
+  },
+  "270": {
+    "name": "Leech",
+    "description": "Familiar (1.5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_270.png",
+    "introducedIn": "rebirth"
+  },
+  "271": {
+    "name": "Mystery Sack",
+    "description": "Spawns hearts, coins, bombs, or keys every few rooms cleared",
+    "iconPath": "collectibles/collectibles_271.png",
+    "introducedIn": "rebirth"
+  },
+  "272": {
+    "name": "BBF",
+    "description": "Familiar (110 dmg explosion)",
+    "iconPath": "collectibles/collectibles_272.png",
+    "introducedIn": "rebirth"
+  },
+  "273": {
+    "name": "Bob's Brain",
+    "description": "Familiar (100 dmg explosion + poison dmg)",
+    "iconPath": "collectibles/collectibles_273.png",
+    "introducedIn": "rebirth"
+  },
+  "274": {
+    "name": "Best Bud",
+    "description": "Spawns a fly orbital when hit (10 dmg / tick)",
+    "iconPath": "collectibles/collectibles_274.png",
+    "introducedIn": "rebirth"
+  },
+  "275": {
+    "name": "Lil' Brimstone",
+    "description": "Familiar (24 dmg / blood laser)",
+    "iconPath": "collectibles/collectibles_275.png",
+    "introducedIn": "rebirth"
+  },
+  "276": {
+    "name": "Isaac's Heart",
+    "description": "Player's hitbox is on the heart (doesn't prevent self damage), charge it and release it to repel enemies and shoot tears in 8 directions",
+    "iconPath": "collectibles/collectibles_276.png",
+    "introducedIn": "rebirth"
+  },
+  "277": {
+    "name": "Lil' Haunt",
+    "description": "Familiar (2 dmg / tick, chance to fear)",
+    "iconPath": "collectibles/collectibles_277.png",
+    "introducedIn": "rebirth"
+  },
+  "278": {
+    "name": "Dark Bum",
+    "description": "Converts 1.5 red heart pickups to a black heart, spider, pill, card or rune",
+    "iconPath": "collectibles/collectibles_278.png",
+    "introducedIn": "rebirth"
+  },
+  "279": {
+    "name": "Big Fan",
+    "description": "Orbital (2 dmg / tick)",
+    "iconPath": "collectibles/collectibles_279.png",
+    "introducedIn": "rebirth"
+  },
+  "280": {
+    "name": "Sissy Long Legs",
+    "description": "Spawns blue spiders, charms enemies upon contact",
+    "iconPath": "collectibles/collectibles_280.png",
+    "introducedIn": "rebirth"
+  },
+  "281": {
+    "name": "Punching Bag",
+    "description": "Familiar (decoy)",
+    "iconPath": "collectibles/collectibles_281.png",
+    "introducedIn": "rebirth"
+  },
+  "282": {
+    "name": "How To Jump",
+    "description": "Can jump over obstacles",
+    "iconPath": "collectibles/collectibles_282.png",
+    "introducedIn": "rebirth"
+  },
+  "283": {
+    "name": "D100",
+    "description": "All dice effects at once (except Spindown Dice)",
+    "iconPath": "collectibles/collectibles_283.png",
+    "introducedIn": "rebirth"
+  },
+  "284": {
+    "name": "D4",
+    "description": "Rerolls current items",
+    "iconPath": "collectibles/collectibles_284.png",
+    "introducedIn": "rebirth"
+  },
+  "285": {
+    "name": "D10",
+    "description": "Devolves enemies in the room",
+    "iconPath": "collectibles/collectibles_285.png",
+    "introducedIn": "rebirth"
+  },
+  "286": {
+    "name": "Blank Card",
+    "description": "Mimics the effect of the currently held card",
+    "iconPath": "collectibles/collectibles_286.png",
+    "introducedIn": "rebirth"
+  },
+  "287": {
+    "name": "Book of Secrets",
+    "description": "Randomly get Treasure Map, Compass, or Blue Map for the floor",
+    "iconPath": "collectibles/collectibles_287.png",
+    "introducedIn": "rebirth"
+  },
+  "288": {
+    "name": "Box of Spiders",
+    "description": "Spawns 4-8 blue spiders",
+    "iconPath": "collectibles/collectibles_288.png",
+    "introducedIn": "rebirth"
+  },
+  "289": {
+    "name": "Red Candle",
+    "description": "Shoots a flame that times out after ten seconds",
+    "iconPath": "collectibles/collectibles_289.png",
+    "introducedIn": "rebirth"
+  },
+  "290": {
+    "name": "The Jar",
+    "description": "Stores red hearts for later",
+    "iconPath": "collectibles/collectibles_290.png",
+    "introducedIn": "rebirth"
+  },
+  "291": {
+    "name": "Flush!",
+    "description": "Non-boss enemies turn to poop, instantly kills poop bosses",
+    "iconPath": "collectibles/collectibles_291.png",
+    "introducedIn": "rebirth"
+  },
+  "292": {
+    "name": "The Satanic Bible",
+    "description": "On use: +1 black heart, transforms boss item into a devil deal",
+    "iconPath": "collectibles/collectibles_292.png",
+    "introducedIn": "rebirth"
+  },
+  "293": {
+    "name": "Head of Krampus",
+    "description": "Create 4 blood lasers (190 dmg / laser)",
+    "iconPath": "collectibles/collectibles_293.png",
+    "introducedIn": "rebirth"
+  },
+  "294": {
+    "name": "Butter Bean",
+    "description": "Knocks back enemies. If pushed enemies hit a wall, they take 10 dmg",
+    "iconPath": "collectibles/collectibles_294.png",
+    "introducedIn": "rebirth"
+  },
+  "295": {
+    "name": "Magic Fingers",
+    "description": "Deals 2x + 10 dmg to the room, takes 1 coin per use, ignore +40 dmg from ipecac",
+    "iconPath": "collectibles/collectibles_295.png",
+    "introducedIn": "rebirth"
+  },
+  "296": {
+    "name": "Converter",
+    "description": "+1 red heart container, -1 soul/black hearts",
+    "iconPath": "collectibles/collectibles_296.png",
+    "introducedIn": "rebirth"
+  },
+  "297": {
+    "name": "Pandora's Box",
+    "description": "B1: 2soul, B2: 2bomb+2key, C1: boss, C2: boss+2soul, D1: 4soul, D2: 20coin, W1: 2boss, W2: Bible, Sheol: devil+black, Cath: angel+white, Void/Hush/DR: nothing, Chest: coin, Home: Red Key",
+    "iconPath": "collectibles/collectibles_297.png",
+    "introducedIn": "rebirth"
+  },
+  "298": {
+    "name": "Unicorn Stump",
+    "description": "Temporary invincibility",
+    "iconPath": "collectibles/collectibles_298.png",
+    "introducedIn": "rebirth"
+  },
+  "299": {
+    "name": "Taurus",
+    "description": "Speed increases until you unicorn",
+    "iconPath": "collectibles/collectibles_299.png",
+    "introducedIn": "rebirth"
+  },
+  "300": {
+    "name": "Aries",
+    "description": "18 contact dmg + prevent dmg contact if moving fast enough",
+    "iconPath": "collectibles/collectibles_300.png",
+    "introducedIn": "rebirth"
+  },
+  "301": {
+    "name": "Cancer",
+    "description": "All dmg is reduced to half a heart (after getting hit in the room)",
+    "iconPath": "collectibles/collectibles_301.png",
+    "introducedIn": "rebirth"
+  },
+  "302": {
+    "name": "Leo",
+    "description": "Crush rocks",
+    "iconPath": "collectibles/collectibles_302.png",
+    "introducedIn": "rebirth"
+  },
+  "303": {
+    "name": "Virgo",
+    "description": "Chance of shield when hit, bad pills become good",
+    "iconPath": "collectibles/collectibles_303.png",
+    "introducedIn": "rebirth"
+  },
+  "304": {
+    "name": "Libra",
+    "description": "Evens out stats, +6 bombs, +6 keys, +6 cents",
+    "iconPath": "collectibles/collectibles_304.png",
+    "introducedIn": "rebirth"
+  },
+  "305": {
+    "name": "Scorpio",
+    "description": "Chance to shoot poison tears",
+    "iconPath": "collectibles/collectibles_305.png",
+    "introducedIn": "rebirth"
+  },
+  "306": {
+    "name": "Sagittarius",
+    "description": "Piercing tears",
+    "iconPath": "collectibles/collectibles_306.png",
+    "introducedIn": "rebirth"
+  },
+  "307": {
+    "name": "Capricorn",
+    "description": "+1 coin, +1 bomb, +1 key",
+    "iconPath": "collectibles/collectibles_307.png",
+    "introducedIn": "rebirth"
+  },
+  "308": {
+    "name": "Aquarius",
+    "description": "Makes a trail of creep that inherit the player's tears effects and damage",
+    "iconPath": "collectibles/collectibles_308.png",
+    "introducedIn": "rebirth"
+  },
+  "309": {
+    "name": "Pisces",
+    "description": "Knockback tears",
+    "iconPath": "collectibles/collectibles_309.png",
+    "introducedIn": "rebirth"
+  },
+  "310": {
+    "name": "Eve's Mascara",
+    "description": "",
+    "iconPath": "collectibles/collectibles_310.png",
+    "introducedIn": "rebirth"
+  },
+  "311": {
+    "name": "Judas' Shadow",
+    "description": "+1 life (will respawn as Dark Judas with a 2.0 dmg multiplier)",
+    "iconPath": "collectibles/collectibles_311.png",
+    "introducedIn": "rebirth"
+  },
+  "312": {
+    "name": "Maggy's Bow",
+    "description": "Red heart pickups count for double",
+    "iconPath": "collectibles/collectibles_312.png",
+    "introducedIn": "rebirth"
+  },
+  "313": {
+    "name": "Holy Mantle",
+    "description": "1-hit shield for every room",
+    "iconPath": "collectibles/collectibles_313.png",
+    "introducedIn": "rebirth"
+  },
+  "314": {
+    "name": "Thunder Thighs",
+    "description": "Crush rocks",
+    "iconPath": "collectibles/collectibles_314.png",
+    "introducedIn": "rebirth"
+  },
+  "315": {
+    "name": "Strange Attractor",
+    "description": "Tears attract enemies and pickups",
+    "iconPath": "collectibles/collectibles_315.png",
+    "introducedIn": "rebirth"
+  },
+  "316": {
+    "name": "Cursed Eye",
+    "description": "Charge shots, random teleport if hit while charging",
+    "iconPath": "collectibles/collectibles_316.png",
+    "introducedIn": "rebirth"
+  },
+  "317": {
+    "name": "Mysterious Liquid",
+    "description": "Tears generate creep",
+    "iconPath": "collectibles/collectibles_317.png",
+    "introducedIn": "rebirth"
+  },
+  "318": {
+    "name": "Gemini",
+    "description": "Familiar (3 dmg / tick)",
+    "iconPath": "collectibles/collectibles_318.png",
+    "introducedIn": "rebirth"
+  },
+  "319": {
+    "name": "Cain's Other Eye",
+    "description": "Familiar that shoots in random directions and deals 75% of your damage",
+    "iconPath": "collectibles/collectibles_319.png",
+    "introducedIn": "rebirth"
+  },
+  "320": {
+    "name": "???'s Only Friend",
+    "description": "Familiar (3.5 dmg / tick)",
+    "iconPath": "collectibles/collectibles_320.png",
+    "introducedIn": "rebirth"
+  },
+  "321": {
+    "name": "Samson's Chains",
+    "description": "5 dmg / tick, crushes rocks",
+    "iconPath": "collectibles/collectibles_321.png",
+    "introducedIn": "rebirth"
+  },
+  "322": {
+    "name": "Mongo Baby",
+    "description": "Familiar (copies other familiars or 3.5 dmg / tear)",
+    "iconPath": "collectibles/collectibles_322.png",
+    "introducedIn": "rebirth"
+  },
+  "323": {
+    "name": "Isaac's Tears",
+    "description": "Fires 8 tears that have a bonus of +5 dmg",
+    "iconPath": "collectibles/collectibles_323.png",
+    "introducedIn": "rebirth"
+  },
+  "324": {
+    "name": "Undefined",
+    "description": "Randomly teleport to Treasure, Secret, Super Secret, I AM ERROR, or Black Market",
+    "iconPath": "collectibles/collectibles_324.png",
+    "introducedIn": "rebirth"
+  },
+  "325": {
+    "name": "Scissors",
+    "description": "Spawns a shooting head familiar, body spews a constant stream of blood",
+    "iconPath": "collectibles/collectibles_325.png",
+    "introducedIn": "rebirth"
+  },
+  "326": {
+    "name": "Breath of Life",
+    "description": "Invincibility when charge bar hits zero, spawns holy beams in 4 directions on an enemy if you touch it while invincible",
+    "iconPath": "collectibles/collectibles_326.png",
+    "introducedIn": "rebirth"
+  },
+  "327": {
+    "name": "The Polaroid",
+    "description": "Temporary shield when hit at 1/2 heart, can enter The Chest",
+    "iconPath": "collectibles/collectibles_327.png",
+    "introducedIn": "rebirth"
+  },
+  "328": {
+    "name": "The Negative",
+    "description": "Damage enemies when hit at 1/2 heart, can enter the Dark Room",
+    "iconPath": "collectibles/collectibles_328.png",
+    "introducedIn": "rebirth"
+  },
+  "329": {
+    "name": "The Ludovico Technique",
+    "description": "Remote control tears",
+    "iconPath": "collectibles/collectibles_329.png",
+    "introducedIn": "rebirth"
+  },
+  "330": {
+    "name": "Soy Milk",
+    "description": "0.5x tear size",
+    "iconPath": "collectibles/collectibles_330.png",
+    "introducedIn": "rebirth"
+  },
+  "331": {
+    "name": "Godhead",
+    "description": "Damaging aura around tears",
+    "iconPath": "collectibles/collectibles_331.png",
+    "introducedIn": "rebirth"
+  },
+  "332": {
+    "name": "Lazarus' Rags",
+    "description": "+1 life (will respawn as Lazarus II)",
+    "iconPath": "collectibles/collectibles_332.png",
+    "introducedIn": "rebirth"
+  },
+  "333": {
+    "name": "The Mind",
+    "description": "Treasure Map + Compass + Blue Map",
+    "iconPath": "collectibles/collectibles_333.png",
+    "introducedIn": "rebirth"
+  },
+  "334": {
+    "name": "The Body",
+    "description": "+3 heart containers",
+    "iconPath": "collectibles/collectibles_334.png",
+    "introducedIn": "rebirth"
+  },
+  "335": {
+    "name": "The Soul",
+    "description": "Enemy projectiles are repulsed",
+    "iconPath": "collectibles/collectibles_335.png",
+    "introducedIn": "rebirth"
+  },
+  "336": {
+    "name": "Dead Onion",
+    "description": "Piercing and spectral tears",
+    "iconPath": "collectibles/collectibles_336.png",
+    "introducedIn": "rebirth"
+  },
+  "337": {
+    "name": "Broken Watch",
+    "description": "Chance to slow down or speed up enemies",
+    "iconPath": "collectibles/collectibles_337.png",
+    "introducedIn": "rebirth"
+  },
+  "338": {
+    "name": "Boomerang",
+    "description": "2x dmg and is piercing, can petrify enemies, can grab pickups",
+    "iconPath": "collectibles/collectibles_338.png",
+    "introducedIn": "rebirth"
+  },
+  "339": {
+    "name": "Safety Pin",
+    "description": "Evil up",
+    "iconPath": "collectibles/collectibles_339.png",
+    "introducedIn": "rebirth"
+  },
+  "340": {
+    "name": "Caffeine Pill",
+    "description": "Size down, grants a pill",
+    "iconPath": "collectibles/collectibles_340.png",
+    "introducedIn": "rebirth"
+  },
+  "341": {
+    "name": "Torn Photo",
+    "description": "",
+    "iconPath": "collectibles/collectibles_341.png",
+    "introducedIn": "rebirth"
+  },
+  "342": {
+    "name": "Blue Cap",
+    "description": "",
+    "iconPath": "collectibles/collectibles_342.png",
+    "introducedIn": "rebirth"
+  },
+  "343": {
+    "name": "Latch Key",
+    "description": "+2 keys",
+    "iconPath": "collectibles/collectibles_343.png",
+    "introducedIn": "rebirth"
+  },
+  "344": {
+    "name": "Match Book",
+    "description": "+3 bombs and can spawn Match Stick",
+    "iconPath": "collectibles/collectibles_344.png",
+    "introducedIn": "rebirth"
+  },
+  "345": {
+    "name": "Synthoil",
+    "description": "",
+    "iconPath": "collectibles/collectibles_345.png",
+    "introducedIn": "rebirth"
+  },
+  "346": {
+    "name": "A Snack",
+    "description": "",
+    "iconPath": "collectibles/collectibles_346.png",
+    "introducedIn": "rebirth"
+  },
+  "347": {
+    "name": "Diplopia",
+    "description": "One-shot duplicates pedestals and pickups",
+    "iconPath": "collectibles/collectibles_347.png",
+    "introducedIn": "afterbirth"
+  },
+  "348": {
+    "name": "Placebo",
+    "description": "Mimics the effect of the currently held pill",
+    "iconPath": "collectibles/collectibles_348.png",
+    "introducedIn": "afterbirth"
+  },
+  "349": {
+    "name": "Wooden Nickel",
+    "description": "50% chance to drop a coin",
+    "iconPath": "collectibles/collectibles_349.png",
+    "introducedIn": "afterbirth"
+  },
+  "350": {
+    "name": "Toxic Shock",
+    "description": "Deals 2x dmg to enemies at the start of each room",
+    "iconPath": "collectibles/collectibles_350.png",
+    "introducedIn": "afterbirth"
+  },
+  "351": {
+    "name": "Mega Bean",
+    "description": "Big damaging fart with spike wave",
+    "iconPath": "collectibles/collectibles_351.png",
+    "introducedIn": "afterbirth"
+  },
+  "352": {
+    "name": "Glass Cannon",
+    "description": "Reduces red hearts to .5, shoots a big shot",
+    "iconPath": "collectibles/collectibles_352.png",
+    "introducedIn": "afterbirth"
+  },
+  "353": {
+    "name": "Bomber Boy",
+    "description": "+5 bombs, bombs explode in a plus shape",
+    "iconPath": "collectibles/collectibles_353.png",
+    "introducedIn": "afterbirth"
+  },
+  "354": {
+    "name": "Crack Jacks",
+    "description": "Spawns a random trinket on pickup",
+    "iconPath": "collectibles/collectibles_354.png",
+    "introducedIn": "afterbirth"
+  },
+  "355": {
+    "name": "Mom's Pearls",
+    "description": "",
+    "iconPath": "collectibles/collectibles_355.png",
+    "introducedIn": "afterbirth"
+  },
+  "356": {
+    "name": "Car Battery",
+    "description": "Active items trigger twice when used",
+    "iconPath": "collectibles/collectibles_356.png",
+    "introducedIn": "afterbirth"
+  },
+  "357": {
+    "name": "Box of Friends",
+    "description": "Temporarily duplicates each familiar, gives Demon Baby if no familiars",
+    "iconPath": "collectibles/collectibles_357.png",
+    "introducedIn": "afterbirth"
+  },
+  "358": {
+    "name": "The Wiz",
+    "description": "Diagonal double shot tears, spectral tears",
+    "iconPath": "collectibles/collectibles_358.png",
+    "introducedIn": "afterbirth"
+  },
+  "359": {
+    "name": "8 Inch Nails",
+    "description": "Nail tears",
+    "iconPath": "collectibles/collectibles_359.png",
+    "introducedIn": "afterbirth"
+  },
+  "360": {
+    "name": "Incubus",
+    "description": "Familiar (copies your tears)",
+    "iconPath": "collectibles/collectibles_360.png",
+    "introducedIn": "afterbirth"
+  },
+  "361": {
+    "name": "Fate's Reward",
+    "description": "Familiar (copies your tears with a slow shooting frequency)",
+    "iconPath": "collectibles/collectibles_361.png",
+    "introducedIn": "afterbirth"
+  },
+  "362": {
+    "name": "Lil Chest",
+    "description": "Spawns pickups and trinkets every few rooms cleared",
+    "iconPath": "collectibles/collectibles_362.png",
+    "introducedIn": "afterbirth"
+  },
+  "363": {
+    "name": "Sworn Protector",
+    "description": "Orbital (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_363.png",
+    "introducedIn": "afterbirth"
+  },
+  "364": {
+    "name": "Friend Zone",
+    "description": "Orbital (3 dmg / tick)",
+    "iconPath": "collectibles/collectibles_364.png",
+    "introducedIn": "afterbirth"
+  },
+  "365": {
+    "name": "Lost Fly",
+    "description": "Familiar that hugs walls (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_365.png",
+    "introducedIn": "afterbirth"
+  },
+  "366": {
+    "name": "Scatter Bombs",
+    "description": "+5 bombs, bombs split into 2-4 small bombs after exploding",
+    "iconPath": "collectibles/collectibles_366.png",
+    "introducedIn": "afterbirth"
+  },
+  "367": {
+    "name": "Sticky Bombs",
+    "description": "+5 bombs, bombs stick to enemies, spawns 4 spiders if the bomb kills an enemy",
+    "iconPath": "collectibles/collectibles_367.png",
+    "introducedIn": "afterbirth"
+  },
+  "368": {
+    "name": "Epiphora",
+    "description": "Faster tear rate when shooting in one direction, up to 2x rate after 10 seconds",
+    "iconPath": "collectibles/collectibles_368.png",
+    "introducedIn": "afterbirth"
+  },
+  "369": {
+    "name": "Continuum",
+    "description": "Tears wrap around the screen, spectral tears",
+    "iconPath": "collectibles/collectibles_369.png",
+    "introducedIn": "afterbirth"
+  },
+  "370": {
+    "name": "Mr. Dolly",
+    "description": "Spawn 3 red/soul/black hearts at random",
+    "iconPath": "collectibles/collectibles_370.png",
+    "introducedIn": "afterbirth"
+  },
+  "371": {
+    "name": "Curse of the Tower",
+    "description": "Spawns 6 troll bombs when hit",
+    "iconPath": "collectibles/collectibles_371.png",
+    "introducedIn": "afterbirth"
+  },
+  "372": {
+    "name": "Charged Baby",
+    "description": "Occasionally spawns a Little Battery, adds a charge, or petrifies all enemies",
+    "iconPath": "collectibles/collectibles_372.png",
+    "introducedIn": "afterbirth"
+  },
+  "373": {
+    "name": "Dead Eye",
+    "description": "Dmg increases when you hit enemies (up to 2x), every miss has a chance to reset",
+    "iconPath": "collectibles/collectibles_373.png",
+    "introducedIn": "afterbirth"
+  },
+  "374": {
+    "name": "Holy Light",
+    "description": "Chance to shoot tears that spawn beams of light (3x dmg)",
+    "iconPath": "collectibles/collectibles_374.png",
+    "introducedIn": "afterbirth"
+  },
+  "375": {
+    "name": "Host Hat",
+    "description": "Explosion/Stomp/Rock wave immunity, chance to deflect enemy projectiles",
+    "iconPath": "collectibles/collectibles_375.png",
+    "introducedIn": "afterbirth"
+  },
+  "376": {
+    "name": "Restock",
+    "description": "Stores get more items when you buy things (like in Greed Mode)",
+    "iconPath": "collectibles/collectibles_376.png",
+    "introducedIn": "afterbirth"
+  },
+  "377": {
+    "name": "Bursting Sack",
+    "description": "Immunity to contact damage from spiders",
+    "iconPath": "collectibles/collectibles_377.png",
+    "introducedIn": "afterbirth"
+  },
+  "378": {
+    "name": "No. 2",
+    "description": "Spawns a butt bomb after 3 seconds of uninterrupted firing",
+    "iconPath": "collectibles/collectibles_378.png",
+    "introducedIn": "afterbirth"
+  },
+  "379": {
+    "name": "Pupula Duplex",
+    "description": "Wide tears, spectral tears",
+    "iconPath": "collectibles/collectibles_379.png",
+    "introducedIn": "afterbirth"
+  },
+  "380": {
+    "name": "Pay To Play",
+    "description": "+5 coins, doors that take keys take coins instead",
+    "iconPath": "collectibles/collectibles_380.png",
+    "introducedIn": "afterbirth"
+  },
+  "381": {
+    "name": "Eden's Blessing",
+    "description": "Extra random item at the start of the next run",
+    "iconPath": "collectibles/collectibles_381.png",
+    "introducedIn": "afterbirth"
+  },
+  "382": {
+    "name": "Friendly Ball",
+    "description": "Captures an enemy",
+    "iconPath": "collectibles/collectibles_382.png",
+    "introducedIn": "afterbirth"
+  },
+  "383": {
+    "name": "Tear Detonator",
+    "description": "Makes your on-screen tears split",
+    "iconPath": "collectibles/collectibles_383.png",
+    "introducedIn": "afterbirth"
+  },
+  "384": {
+    "name": "Lil Gurdy",
+    "description": "Familiar (charge to fire)",
+    "iconPath": "collectibles/collectibles_384.png",
+    "introducedIn": "afterbirth"
+  },
+  "385": {
+    "name": "Bumbo",
+    "description": "Familiar, eats coins to level up, can shoot and attack enemies",
+    "iconPath": "collectibles/collectibles_385.png",
+    "introducedIn": "afterbirth"
+  },
+  "386": {
+    "name": "D12",
+    "description": "Rerolls obstacles (rocks, etc.)",
+    "iconPath": "collectibles/collectibles_386.png",
+    "introducedIn": "afterbirth"
+  },
+  "387": {
+    "name": "Censer",
+    "description": "Aura slows enemies",
+    "iconPath": "collectibles/collectibles_387.png",
+    "introducedIn": "afterbirth"
+  },
+  "388": {
+    "name": "Key Bum",
+    "description": "Turns keys into chests",
+    "iconPath": "collectibles/collectibles_388.png",
+    "introducedIn": "afterbirth"
+  },
+  "389": {
+    "name": "Rune Bag",
+    "description": "Spawns a rune every few rooms cleared",
+    "iconPath": "collectibles/collectibles_389.png",
+    "introducedIn": "afterbirth"
+  },
+  "390": {
+    "name": "Seraphim",
+    "description": "Familiar (Sacred Heart tears)",
+    "iconPath": "collectibles/collectibles_390.png",
+    "introducedIn": "afterbirth"
+  },
+  "391": {
+    "name": "Betrayal",
+    "description": "Charms all enemies when hit",
+    "iconPath": "collectibles/collectibles_391.png",
+    "introducedIn": "afterbirth"
+  },
+  "392": {
+    "name": "Zodiac",
+    "description": "Random zodiac item each floor",
+    "iconPath": "collectibles/collectibles_392.png",
+    "introducedIn": "afterbirth"
+  },
+  "393": {
+    "name": "Serpent's Kiss",
+    "description": "Change to shoot a poison tears, poison touch, poisoned enemies drop black hearts",
+    "iconPath": "collectibles/collectibles_393.png",
+    "introducedIn": "afterbirth"
+  },
+  "394": {
+    "name": "Marked",
+    "description": "Directed tears",
+    "iconPath": "collectibles/collectibles_394.png",
+    "introducedIn": "afterbirth"
+  },
+  "395": {
+    "name": "Tech X",
+    "description": "Charged laser ring tears",
+    "iconPath": "collectibles/collectibles_395.png",
+    "introducedIn": "afterbirth"
+  },
+  "396": {
+    "name": "Ventricle Razor",
+    "description": "Creates portals for faster backtracking",
+    "iconPath": "collectibles/collectibles_396.png",
+    "introducedIn": "afterbirth"
+  },
+  "397": {
+    "name": "Tractor Beam",
+    "description": "Tears stay directly ahead of the player",
+    "iconPath": "collectibles/collectibles_397.png",
+    "introducedIn": "afterbirth"
+  },
+  "398": {
+    "name": "God's Flesh",
+    "description": "Chance to shoot shrinking tears, making them squishable",
+    "iconPath": "collectibles/collectibles_398.png",
+    "introducedIn": "afterbirth"
+  },
+  "399": {
+    "name": "Maw of the Void",
+    "description": "3 second charge for a black blood laser ring attack (which has 5% chance to drop a black heart per enemy killed)",
+    "iconPath": "collectibles/collectibles_399.png",
+    "introducedIn": "afterbirth"
+  },
+  "400": {
+    "name": "Spear of Destiny",
+    "description": "Stationary weapon (2x damage / tick)",
+    "iconPath": "collectibles/collectibles_400.png",
+    "introducedIn": "afterbirth"
+  },
+  "401": {
+    "name": "Explosivo",
+    "description": "Chance to shoot sticky tears that will eventually explode",
+    "iconPath": "collectibles/collectibles_401.png",
+    "introducedIn": "afterbirth"
+  },
+  "402": {
+    "name": "Chaos",
+    "description": "All item pools are combined",
+    "iconPath": "collectibles/collectibles_402.png",
+    "introducedIn": "afterbirth"
+  },
+  "403": {
+    "name": "Spider Mod",
+    "description": "Enemies have health bars, shows damage dealt, inflicts random status effects to enemies, spawns batteries and blue spiders every few rooms cleared",
+    "iconPath": "collectibles/collectibles_403.png",
+    "introducedIn": "afterbirth"
+  },
+  "404": {
+    "name": "Farting Baby",
+    "description": "Familiar that blocks shots, 10% chance to poison/knockback/charm per block",
+    "iconPath": "collectibles/collectibles_404.png",
+    "introducedIn": "afterbirth"
+  },
+  "405": {
+    "name": "GB Bug",
+    "description": "Familiar that travels around the room, inflict random status effects to enemies that it touches",
+    "iconPath": "collectibles/collectibles_405.png",
+    "introducedIn": "afterbirth"
+  },
+  "406": {
+    "name": "D8",
+    "description": "Rerolls your stats",
+    "iconPath": "collectibles/collectibles_406.png",
+    "introducedIn": "afterbirth"
+  },
+  "407": {
+    "name": "Purity",
+    "description": "Grants a stat up depending on the aura, red = dmg, blue = tears, orange = range, yellow = speed",
+    "iconPath": "collectibles/collectibles_407.png",
+    "introducedIn": "afterbirth"
+  },
+  "408": {
+    "name": "Athame",
+    "description": "Black blood laser ring when hit (which has 15% chance to drop a black heart per enemy killed)",
+    "iconPath": "collectibles/collectibles_408.png",
+    "introducedIn": "afterbirth"
+  },
+  "409": {
+    "name": "Empty Vessel",
+    "description": "Activate at one half red heart or less, gives flight, procs a shield after 40 seconds in a room",
+    "iconPath": "collectibles/collectibles_409.png",
+    "introducedIn": "afterbirth"
+  },
+  "410": {
+    "name": "Evil Eye",
+    "description": "Chance to shoot eye tears (that shoot tears as they travel)",
+    "iconPath": "collectibles/collectibles_410.png",
+    "introducedIn": "afterbirth"
+  },
+  "411": {
+    "name": "Lusty Blood",
+    "description": "+0.5 dmg for the current room per enemy killed (max is 5 dmg)",
+    "iconPath": "collectibles/collectibles_411.png",
+    "introducedIn": "afterbirth"
+  },
+  "412": {
+    "name": "Cambion Conception",
+    "description": "Chance to gain evil familiars when hit",
+    "iconPath": "collectibles/collectibles_412.png",
+    "introducedIn": "afterbirth"
+  },
+  "413": {
+    "name": "Immaculate Conception",
+    "description": "Gain a holy familiar and soul heart after each 15 heart pickups",
+    "iconPath": "collectibles/collectibles_413.png",
+    "introducedIn": "afterbirth"
+  },
+  "414": {
+    "name": "More Options",
+    "description": "Choice of 2 or 3 items in each Treasure Room",
+    "iconPath": "collectibles/collectibles_414.png",
+    "introducedIn": "afterbirth"
+  },
+  "415": {
+    "name": "Crown of Light",
+    "description": "2x dmg when you have no empty red hearts",
+    "iconPath": "collectibles/collectibles_415.png",
+    "introducedIn": "afterbirth"
+  },
+  "416": {
+    "name": "Deep Pockets",
+    "description": "Can carry 2 cards/pills instead of 1",
+    "iconPath": "collectibles/collectibles_416.png",
+    "introducedIn": "afterbirth"
+  },
+  "417": {
+    "name": "Succubus",
+    "description": "Familiar, aura damages enemies, 1.5x dmg when standing in aura",
+    "iconPath": "collectibles/collectibles_417.png",
+    "introducedIn": "afterbirth"
+  },
+  "418": {
+    "name": "Fruit Cake",
+    "description": "Random tear effects that change constantly",
+    "iconPath": "collectibles/collectibles_418.png",
+    "introducedIn": "afterbirth"
+  },
+  "419": {
+    "name": "Teleport 2.0",
+    "description": "Teleports to an unexplored room (including Devil Room or I AM ERROR Room)",
+    "iconPath": "collectibles/collectibles_419.png",
+    "introducedIn": "afterbirth"
+  },
+  "420": {
+    "name": "Black Powder",
+    "description": "Walking in a circle makes a pentagram that does 10 dmg/tick",
+    "iconPath": "collectibles/collectibles_420.png",
+    "introducedIn": "afterbirth"
+  },
+  "421": {
+    "name": "Kidney Bean",
+    "description": "Charms enemies",
+    "iconPath": "collectibles/collectibles_421.png",
+    "introducedIn": "afterbirth"
+  },
+  "422": {
+    "name": "Glowing Hour Glass",
+    "description": "Rewinds the game state to the previous room",
+    "iconPath": "collectibles/collectibles_422.png",
+    "introducedIn": "afterbirth"
+  },
+  "423": {
+    "name": "Circle of Protection",
+    "description": "White ring damages enemies and has a chance to reflect projectiles",
+    "iconPath": "collectibles/collectibles_423.png",
+    "introducedIn": "afterbirth"
+  },
+  "424": {
+    "name": "Sack Head",
+    "description": "Pickups have a 33% chance to be replaced by a Sack, spawns a Sack on pickup",
+    "iconPath": "collectibles/collectibles_424.png",
+    "introducedIn": "afterbirth"
+  },
+  "425": {
+    "name": "Night Light",
+    "description": "Light cone slows enemies and projectiles",
+    "iconPath": "collectibles/collectibles_425.png",
+    "introducedIn": "afterbirth"
+  },
+  "426": {
+    "name": "Obsessed Fan",
+    "description": "Familiar, copies your movement, does contact damage",
+    "iconPath": "collectibles/collectibles_426.png",
+    "introducedIn": "afterbirth"
+  },
+  "427": {
+    "name": "Mine Crafter",
+    "description": "Spawns a TNT barrel",
+    "iconPath": "collectibles/collectibles_427.png",
+    "introducedIn": "afterbirth"
+  },
+  "428": {
+    "name": "PJs",
+    "description": "Full heal",
+    "iconPath": "collectibles/collectibles_428.png",
+    "introducedIn": "afterbirth"
+  },
+  "429": {
+    "name": "Head of the Keeper",
+    "description": "Coin tears (chance to spawn coins upon hitting an enemy)",
+    "iconPath": "collectibles/collectibles_429.png",
+    "introducedIn": "afterbirth"
+  },
+  "430": {
+    "name": "Papa Fly",
+    "description": "Familiar, copies your movement, shoots at enemies",
+    "iconPath": "collectibles/collectibles_430.png",
+    "introducedIn": "afterbirth"
+  },
+  "431": {
+    "name": "Multidimensional Baby",
+    "description": "Familiar, tears that pass through it get 2x dmg",
+    "iconPath": "collectibles/collectibles_431.png",
+    "introducedIn": "afterbirth"
+  },
+  "432": {
+    "name": "Glitter Bombs",
+    "description": "+5 bombs, bombs have a chance to drop pickups after exploding",
+    "iconPath": "collectibles/collectibles_432.png",
+    "introducedIn": "afterbirth"
+  },
+  "433": {
+    "name": "My Shadow",
+    "description": "Spawns a friendly Charger when hit",
+    "iconPath": "collectibles/collectibles_433.png",
+    "introducedIn": "afterbirth"
+  },
+  "434": {
+    "name": "Jar of Flies",
+    "description": "Creates flies when you kill enemies (max 20)",
+    "iconPath": "collectibles/collectibles_434.png",
+    "introducedIn": "afterbirth"
+  },
+  "435": {
+    "name": "Lil Loki",
+    "description": "Familiar, shoots cross tears",
+    "iconPath": "collectibles/collectibles_435.png",
+    "introducedIn": "afterbirth"
+  },
+  "436": {
+    "name": "Milk!",
+    "description": "Familiar, -2 tear delay when hit",
+    "iconPath": "collectibles/collectibles_436.png",
+    "introducedIn": "afterbirth"
+  },
+  "437": {
+    "name": "D7",
+    "description": "Respawns the current room",
+    "iconPath": "collectibles/collectibles_437.png",
+    "introducedIn": "afterbirth"
+  },
+  "438": {
+    "name": "Binky",
+    "description": "",
+    "iconPath": "collectibles/collectibles_438.png",
+    "introducedIn": "afterbirth"
+  },
+  "439": {
+    "name": "Mom's Box",
+    "description": "Spawns a random trinket, doubles trinket effects while held",
+    "iconPath": "collectibles/collectibles_439.png",
+    "introducedIn": "afterbirth"
+  },
+  "440": {
+    "name": "Kidney Stone",
+    "description": "Grants extra charge attack every 25 seconds",
+    "iconPath": "collectibles/collectibles_440.png",
+    "introducedIn": "afterbirth"
+  },
+  "441": {
+    "name": "Mega Blast",
+    "description": "Huge blood laser for 15 seconds, lasts across rooms and floors",
+    "iconPath": "collectibles/collectibles_441.png",
+    "introducedIn": "afterbirth"
+  },
+  "442": {
+    "name": "Dark Prince's Crown",
+    "description": "+1.5 range, +0.7 tears and 0.2 shot speed when at exactly 1 red heart",
+    "iconPath": "collectibles/collectibles_442.png",
+    "introducedIn": "afterbirth+"
+  },
+  "443": {
+    "name": "Apple!",
+    "description": "Chance to shoot razor blade tears (4x dmg)",
+    "iconPath": "collectibles/collectibles_443.png",
+    "introducedIn": "afterbirth+"
+  },
+  "444": {
+    "name": "Lead Pencil",
+    "description": "Fires a Monstro's Lung shot every 15 tears",
+    "iconPath": "collectibles/collectibles_444.png",
+    "introducedIn": "afterbirth+"
+  },
+  "445": {
+    "name": "Dog Tooth",
+    "description": "Wolf howls when there is an adjacent Secret Room / Super Secret Room / Crawlspace",
+    "iconPath": "collectibles/collectibles_445.png",
+    "introducedIn": "afterbirth+"
+  },
+  "446": {
+    "name": "Dead Tooth",
+    "description": "Poisonous aura",
+    "iconPath": "collectibles/collectibles_446.png",
+    "introducedIn": "afterbirth+"
+  },
+  "447": {
+    "name": "Linger Bean",
+    "description": "Spawns a poop cloud every 7.5 seconds (scales with dmg, 5 ticks / second)",
+    "iconPath": "collectibles/collectibles_447.png",
+    "introducedIn": "afterbirth+"
+  },
+  "448": {
+    "name": "Shard of Glass",
+    "description": "Chance to drop a red heart when hit, +5 range and makes a red creep trail when hit",
+    "iconPath": "collectibles/collectibles_448.png",
+    "introducedIn": "afterbirth+"
+  },
+  "449": {
+    "name": "Metal Plate",
+    "description": "Chance to deflect enemy projectiles",
+    "iconPath": "collectibles/collectibles_449.png",
+    "introducedIn": "afterbirth+"
+  },
+  "450": {
+    "name": "Eye of Greed",
+    "description": "Shoots an extra coin tear every 20 tears (has Midas Touch effect)",
+    "iconPath": "collectibles/collectibles_450.png",
+    "introducedIn": "afterbirth+"
+  },
+  "451": {
+    "name": "Tarot Cloth",
+    "description": "Doubles the effect of cards, spawns a random card/rune on pickup",
+    "iconPath": "collectibles/collectibles_451.png",
+    "introducedIn": "afterbirth+"
+  },
+  "452": {
+    "name": "Varicose Veins",
+    "description": "Shoots 10 tears (dmg + 25) when hit",
+    "iconPath": "collectibles/collectibles_452.png",
+    "introducedIn": "afterbirth+"
+  },
+  "453": {
+    "name": "Compound Fracture",
+    "description": "Tears split into 2 bone shards, each does 1/2 dmg",
+    "iconPath": "collectibles/collectibles_453.png",
+    "introducedIn": "afterbirth+"
+  },
+  "454": {
+    "name": "Polydactyly",
+    "description": "Can carry 2 cards/pills instead of 1, spawns 1 card/pill on pickup",
+    "iconPath": "collectibles/collectibles_454.png",
+    "introducedIn": "afterbirth+"
+  },
+  "455": {
+    "name": "Dad's Lost Coin",
+    "description": "Spawns a lucky penny on pickup",
+    "iconPath": "collectibles/collectibles_455.png",
+    "introducedIn": "afterbirth+"
+  },
+  "456": {
+    "name": "Moldy Bread",
+    "description": "",
+    "iconPath": "collectibles/collectibles_456.png",
+    "introducedIn": "afterbirth+"
+  },
+  "457": {
+    "name": "Cone Head",
+    "description": "Chance to not take damage when hit",
+    "iconPath": "collectibles/collectibles_457.png",
+    "introducedIn": "afterbirth+"
+  },
+  "458": {
+    "name": "Belly Button",
+    "description": "Can carry 2 trinkets instead of 1, spawns random trinket on pickup",
+    "iconPath": "collectibles/collectibles_458.png",
+    "introducedIn": "afterbirth+"
+  },
+  "459": {
+    "name": "Sinus Infection",
+    "description": "Chance to shoot booger tears (dmg over time for 60 seconds)",
+    "iconPath": "collectibles/collectibles_459.png",
+    "introducedIn": "afterbirth+"
+  },
+  "460": {
+    "name": "Glaucoma",
+    "description": "Chance to shoot concussive tears",
+    "iconPath": "collectibles/collectibles_460.png",
+    "introducedIn": "afterbirth+"
+  },
+  "461": {
+    "name": "Parasitoid",
+    "description": "Chance to fire an egg tear (spawns creep + blue fly/spider)",
+    "iconPath": "collectibles/collectibles_461.png",
+    "introducedIn": "afterbirth+"
+  },
+  "462": {
+    "name": "Eye of Belial",
+    "description": "Piercing, after a tear hits it gets 2x dmg + homing",
+    "iconPath": "collectibles/collectibles_462.png",
+    "introducedIn": "afterbirth+"
+  },
+  "463": {
+    "name": "Sulfuric Acid",
+    "description": "Chance to fire a sulfuric tear (breaks rocks / open doors)",
+    "iconPath": "collectibles/collectibles_463.png",
+    "introducedIn": "afterbirth+"
+  },
+  "464": {
+    "name": "Glyph of Balance",
+    "description": "Modifies drops from champion enemies based on certain conditions",
+    "iconPath": "collectibles/collectibles_464.png",
+    "introducedIn": "afterbirth+"
+  },
+  "465": {
+    "name": "Analog Stick",
+    "description": "Allows shooting tears diagonally",
+    "iconPath": "collectibles/collectibles_465.png",
+    "introducedIn": "afterbirth+"
+  },
+  "466": {
+    "name": "Contagion",
+    "description": "The first enemy killed in a room will explode and poison nearby enemies",
+    "iconPath": "collectibles/collectibles_466.png",
+    "introducedIn": "afterbirth+"
+  },
+  "467": {
+    "name": "Finger!",
+    "description": "Damages enemies in the direction it is pointed in",
+    "iconPath": "collectibles/collectibles_467.png",
+    "introducedIn": "afterbirth+"
+  },
+  "468": {
+    "name": "Shade",
+    "description": "Familiar, copies your movement, does contact damage",
+    "iconPath": "collectibles/collectibles_468.png",
+    "introducedIn": "afterbirth+"
+  },
+  "469": {
+    "name": "Depression",
+    "description": "Familiar, leaves blue creep, chance to spawn beam of light when touching enemies",
+    "iconPath": "collectibles/collectibles_469.png",
+    "introducedIn": "afterbirth+"
+  },
+  "470": {
+    "name": "Hushy",
+    "description": "Familiar, moves when not shooting, deals contact dmg (2 dmg / tick)",
+    "iconPath": "collectibles/collectibles_470.png",
+    "introducedIn": "afterbirth+"
+  },
+  "471": {
+    "name": "Lil Monstro",
+    "description": "Familiar, shoots base dmg Monstro's Lung",
+    "iconPath": "collectibles/collectibles_471.png",
+    "introducedIn": "afterbirth+"
+  },
+  "472": {
+    "name": "King Baby",
+    "description": "Familiar, all other familiars follow it",
+    "iconPath": "collectibles/collectibles_472.png",
+    "introducedIn": "afterbirth+"
+  },
+  "473": {
+    "name": "Big Chubby",
+    "description": "Familiar (2.7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_473.png",
+    "introducedIn": "afterbirth+"
+  },
+  "474": {
+    "name": "Tonsil",
+    "description": "Chance to spawn a tonsil familiar when hit",
+    "iconPath": "collectibles/collectibles_474.png",
+    "introducedIn": "afterbirth+"
+  },
+  "475": {
+    "name": "Plan C",
+    "description": "Kills everything in the room, kills you after 3 seconds, single use",
+    "iconPath": "collectibles/collectibles_475.png",
+    "introducedIn": "afterbirth+"
+  },
+  "476": {
+    "name": "D1",
+    "description": "Duplicates a random pickup in the room",
+    "iconPath": "collectibles/collectibles_476.png",
+    "introducedIn": "afterbirth+"
+  },
+  "477": {
+    "name": "Void",
+    "description": "Consumes pedestal items in the room, passive items give random stat ups, active items adds the effect to Void",
+    "iconPath": "collectibles/collectibles_477.png",
+    "introducedIn": "afterbirth+"
+  },
+  "478": {
+    "name": "Pause",
+    "description": "Petrifies all enemies in the room until you shoot",
+    "iconPath": "collectibles/collectibles_478.png",
+    "introducedIn": "afterbirth+"
+  },
+  "479": {
+    "name": "Smelter",
+    "description": "Consumes held trinkets to make their effects permanent",
+    "iconPath": "collectibles/collectibles_479.png",
+    "introducedIn": "afterbirth+"
+  },
+  "480": {
+    "name": "Compost",
+    "description": "Converts pickups in the room to blue flies/spiders",
+    "iconPath": "collectibles/collectibles_480.png",
+    "introducedIn": "afterbirth+"
+  },
+  "481": {
+    "name": "Dataminer",
+    "description": "Temporary random stat changes + random tear effects, distorts graphics",
+    "iconPath": "collectibles/collectibles_481.png",
+    "introducedIn": "afterbirth+"
+  },
+  "482": {
+    "name": "Clicker",
+    "description": "Rerolls the current character, removes the last item that was picked up",
+    "iconPath": "collectibles/collectibles_482.png",
+    "introducedIn": "afterbirth+"
+  },
+  "483": {
+    "name": "Mama Mega!",
+    "description": "200 dmg to every room, opens all secret doors, single use",
+    "iconPath": "collectibles/collectibles_483.png",
+    "introducedIn": "afterbirth+"
+  },
+  "484": {
+    "name": "Wait What?",
+    "description": "Spawns a wave of rocks that hurts enemies (acts as an explosion)",
+    "iconPath": "collectibles/collectibles_484.png",
+    "introducedIn": "afterbirth+"
+  },
+  "485": {
+    "name": "Crooked Penny",
+    "description": "50/50 chance to either double all pickups / pedestal items or destroy them",
+    "iconPath": "collectibles/collectibles_485.png",
+    "introducedIn": "afterbirth+"
+  },
+  "486": {
+    "name": "Dull Razor",
+    "description": "Fake damaging you, triggering all the effects that should trigger on hit",
+    "iconPath": "collectibles/collectibles_486.png",
+    "introducedIn": "afterbirth+"
+  },
+  "487": {
+    "name": "Potato Peeler",
+    "description": "-1 red heart, +0.2 dmg, gain a Cube of Meat",
+    "iconPath": "collectibles/collectibles_487.png",
+    "introducedIn": "afterbirth+"
+  },
+  "488": {
+    "name": "Metronome",
+    "description": "Temporary random item effect",
+    "iconPath": "collectibles/collectibles_488.png",
+    "introducedIn": "afterbirth+"
+  },
+  "489": {
+    "name": "D infinity",
+    "description": "Gives random dice on pickup, morphs to another dice on use",
+    "iconPath": "collectibles/collectibles_489.png",
+    "introducedIn": "afterbirth+"
+  },
+  "490": {
+    "name": "Eden's Soul",
+    "description": "Spawns two item pedestals, starts with 0 charges, single use",
+    "iconPath": "collectibles/collectibles_490.png",
+    "introducedIn": "afterbirth+"
+  },
+  "491": {
+    "name": "Acid Baby",
+    "description": "Spawns a pill every 2-3 rooms cleared",
+    "iconPath": "collectibles/collectibles_491.png",
+    "introducedIn": "afterbirth+"
+  },
+  "492": {
+    "name": "YO LISTEN!",
+    "description": "Familiar, travels to Secret Rooms / Super Secret Rooms / tinted rocks / crawlspaces",
+    "iconPath": "collectibles/collectibles_492.png",
+    "introducedIn": "afterbirth+"
+  },
+  "493": {
+    "name": "Adrenaline",
+    "description": "+0.2 dmg for every empty red heart container",
+    "iconPath": "collectibles/collectibles_493.png",
+    "introducedIn": "afterbirth+"
+  },
+  "494": {
+    "name": "Jacob's Ladder",
+    "description": "Lightning tears (1-2 sparks in a random direction, each does 1/2 dmg)",
+    "iconPath": "collectibles/collectibles_494.png",
+    "introducedIn": "afterbirth+"
+  },
+  "495": {
+    "name": "Ghost Pepper",
+    "description": "Chance to shoot a fire (up to 125 dmg)",
+    "iconPath": "collectibles/collectibles_495.png",
+    "introducedIn": "afterbirth+"
+  },
+  "496": {
+    "name": "Euthanasia",
+    "description": "Chance to shoot needle tears (3x dmg, if enemy is killed, explodes into more needles)",
+    "iconPath": "collectibles/collectibles_496.png",
+    "introducedIn": "afterbirth+"
+  },
+  "497": {
+    "name": "Camo Undies",
+    "description": "Invisible to enemies in each room until you shoot",
+    "iconPath": "collectibles/collectibles_497.png",
+    "introducedIn": "afterbirth+"
+  },
+  "498": {
+    "name": "Duality",
+    "description": "Choice between Devil or Angel Rooms every time you earn a deal",
+    "iconPath": "collectibles/collectibles_498.png",
+    "introducedIn": "afterbirth+"
+  },
+  "499": {
+    "name": "Eucharist",
+    "description": "Angel Rooms appear whenever possible",
+    "iconPath": "collectibles/collectibles_499.png",
+    "introducedIn": "afterbirth+"
+  },
+  "500": {
+    "name": "Sack of Sacks",
+    "description": "Spawns a sack every few rooms cleared",
+    "iconPath": "collectibles/collectibles_500.png",
+    "introducedIn": "afterbirth+"
+  },
+  "501": {
+    "name": "Greed's Gullet",
+    "description": "Gives an extra heart container for every 25 coins held",
+    "iconPath": "collectibles/collectibles_501.png",
+    "introducedIn": "afterbirth+"
+  },
+  "502": {
+    "name": "Large Zit",
+    "description": "Chance to shoot creep tears (2x dmg, makes a trail of white creep), shoots creep tear in random direction on hit",
+    "iconPath": "collectibles/collectibles_502.png",
+    "introducedIn": "afterbirth+"
+  },
+  "503": {
+    "name": "Little Horn",
+    "description": "Chance to shoot void tears (piercing, instantly kills non-boss enemies)",
+    "iconPath": "collectibles/collectibles_503.png",
+    "introducedIn": "afterbirth+"
+  },
+  "504": {
+    "name": "Brown Nugget",
+    "description": "Spawns a fly turret (2 dmg / shot)",
+    "iconPath": "collectibles/collectibles_504.png",
+    "introducedIn": "afterbirth+"
+  },
+  "505": {
+    "name": "Poke Go",
+    "description": "Chance to spawn a random familiar each room",
+    "iconPath": "collectibles/collectibles_505.png",
+    "introducedIn": "afterbirth+"
+  },
+  "506": {
+    "name": "BackStabber",
+    "description": "Shooting a non-bleeding enemy in the back does 2x dmg and adds bleed effect (kills after 50 seconds of slow damage)",
+    "iconPath": "collectibles/collectibles_506.png",
+    "introducedIn": "afterbirth+"
+  },
+  "507": {
+    "name": "Sharp Straw",
+    "description": "Deals damage to all enemies in the room (1x dmg + 10% of enemy's max HP), enemies killed have a chance to drop a red/soul heart",
+    "iconPath": "collectibles/collectibles_507.png",
+    "introducedIn": "afterbirth+"
+  },
+  "508": {
+    "name": "Mom's Razor",
+    "description": "Orbital (non-blocking), deals 20% dmg / tick, adds bleed effect (kills after 50s of slow damage)",
+    "iconPath": "collectibles/collectibles_508.png",
+    "introducedIn": "afterbirth+"
+  },
+  "509": {
+    "name": "Bloodshot Eye",
+    "description": "Orbital, 2 dmg / tick, shoots every 2 seconds (3.5 dmg / tear)",
+    "iconPath": "collectibles/collectibles_509.png",
+    "introducedIn": "afterbirth+"
+  },
+  "510": {
+    "name": "Delirious",
+    "description": "Spawns random charmed boss for current room",
+    "iconPath": "collectibles/collectibles_510.png",
+    "introducedIn": "afterbirth+"
+  },
+  "511": {
+    "name": "Angry Fly",
+    "description": "Familiar, orbits around enemies, 2 dmg / tick",
+    "iconPath": "collectibles/collectibles_511.png",
+    "introducedIn": "afterbirth+"
+  },
+  "512": {
+    "name": "Black Hole",
+    "description": "Spawns a black hole that sucks all enemies into it and deals damage for 6 seconds",
+    "iconPath": "collectibles/collectibles_512.png",
+    "introducedIn": "afterbirth+"
+  },
+  "513": {
+    "name": "Bozo",
+    "description": "Chance for all enemies to become charmed/feared, chance to spawn rainbow poop on hit",
+    "iconPath": "collectibles/collectibles_513.png",
+    "introducedIn": "afterbirth+"
+  },
+  "514": {
+    "name": "Broken Modem",
+    "description": "Chance for all enemies and enemy projectiles to become frozen (based on luck)",
+    "iconPath": "collectibles/collectibles_514.png",
+    "introducedIn": "afterbirth+"
+  },
+  "515": {
+    "name": "Mystery Gift",
+    "description": "Spawns a pedestal item, single use",
+    "iconPath": "collectibles/collectibles_515.png",
+    "introducedIn": "afterbirth+"
+  },
+  "516": {
+    "name": "Sprinkler",
+    "description": "Spawns a Sprinkler that shoots tears in a circular rotation",
+    "iconPath": "collectibles/collectibles_516.png",
+    "introducedIn": "afterbirth+"
+  },
+  "517": {
+    "name": "Fast Bombs",
+    "description": "+7 bombs, can rapidly place bombs",
+    "iconPath": "collectibles/collectibles_517.png",
+    "introducedIn": "afterbirth+"
+  },
+  "518": {
+    "name": "Buddy in a Box",
+    "description": "Familiar, random co-op baby (changes per floor)",
+    "iconPath": "collectibles/collectibles_518.png",
+    "introducedIn": "afterbirth+"
+  },
+  "519": {
+    "name": "Lil Delirium",
+    "description": "Familiar, transforms into a random familiar every 10 seconds",
+    "iconPath": "collectibles/collectibles_519.png",
+    "introducedIn": "afterbirth+"
+  },
+  "520": {
+    "name": "Jumper Cables",
+    "description": "+1 charge per 15 enemies killed",
+    "iconPath": "collectibles/collectibles_520.png",
+    "introducedIn": "afterbirth+"
+  },
+  "521": {
+    "name": "Coupon",
+    "description": "Makes one random buyable item free",
+    "iconPath": "collectibles/collectibles_521.png",
+    "introducedIn": "afterbirth+"
+  },
+  "522": {
+    "name": "Telekinesis",
+    "description": "Petrifies and then reflects enemy tears",
+    "iconPath": "collectibles/collectibles_522.png",
+    "introducedIn": "afterbirth+"
+  },
+  "523": {
+    "name": "Moving Box",
+    "description": "Stores all pickups / pedestals in the room, then spawns them when used again",
+    "iconPath": "collectibles/collectibles_523.png",
+    "introducedIn": "afterbirth+"
+  },
+  "524": {
+    "name": "Technology Zero",
+    "description": "Electric tears (tears are connected by electricity that deals 1x dmg / tick)",
+    "iconPath": "collectibles/collectibles_524.png",
+    "introducedIn": "afterbirth+"
+  },
+  "525": {
+    "name": "Leprosy",
+    "description": "Spawns temporary orbitals on hit (7 dmg / tick)",
+    "iconPath": "collectibles/collectibles_525.png",
+    "introducedIn": "afterbirth+"
+  },
+  "526": {
+    "name": "7 Seals",
+    "description": "Familiar, transforms into a random horseman every 10 seconds (all deal contact damage and spawn locusts)",
+    "iconPath": "collectibles/collectibles_526.png",
+    "introducedIn": "afterbirth+"
+  },
+  "527": {
+    "name": "Mr. Me!",
+    "description": "Summons a helper to interact with whatever you target",
+    "iconPath": "collectibles/collectibles_527.png",
+    "introducedIn": "afterbirth+"
+  },
+  "528": {
+    "name": "Angelic Prism",
+    "description": "Orbital, tears that pass through it split into 4",
+    "iconPath": "collectibles/collectibles_528.png",
+    "introducedIn": "afterbirth+"
+  },
+  "529": {
+    "name": "Pop!",
+    "description": "Eyeball tears (tears are not affected by range and can bounce off of each other)",
+    "iconPath": "collectibles/collectibles_529.png",
+    "introducedIn": "afterbirth+"
+  },
+  "530": {
+    "name": "Death's List",
+    "description": "Grants random rewards for killing enemies in order",
+    "iconPath": "collectibles/collectibles_530.png",
+    "introducedIn": "afterbirth+"
+  },
+  "531": {
+    "name": "Haemolacria",
+    "description": "Blood tears (arcing tears that explode into many smaller tears that deal 50-80% dmg)",
+    "iconPath": "collectibles/collectibles_531.png",
+    "introducedIn": "afterbirth+"
+  },
+  "532": {
+    "name": "Lachryphagy",
+    "description": "Hungry tears (tears that don't hit enemies combine and eventually split)",
+    "iconPath": "collectibles/collectibles_532.png",
+    "introducedIn": "afterbirth+"
+  },
+  "533": {
+    "name": "Trisagion",
+    "description": "Shoot short light lasers (piercing)",
+    "iconPath": "collectibles/collectibles_533.png",
+    "introducedIn": "afterbirth+"
+  },
+  "534": {
+    "name": "Schoolbag",
+    "description": "Can carry 2 active items instead of 1",
+    "iconPath": "collectibles/collectibles_534.png",
+    "introducedIn": "afterbirth+"
+  },
+  "535": {
+    "name": "Blanket",
+    "description": "1-hit shield when entering a Boss Room",
+    "iconPath": "collectibles/collectibles_535.png",
+    "introducedIn": "repentance"
+  },
+  "536": {
+    "name": "Sacrificial Altar",
+    "description": "Sacrifice up to 2 familiars, spawns a passive Devil Room item for each one, single use",
+    "iconPath": "collectibles/collectibles_536.png",
+    "introducedIn": "repentance"
+  },
+  "537": {
+    "name": "Lil Spewer",
+    "description": "Familiar, charged attack that spawns creep, changes form on pill use, spawns a random pill on pickup",
+    "iconPath": "collectibles/collectibles_537.png",
+    "introducedIn": "repentance"
+  },
+  "538": {
+    "name": "Marbles",
+    "description": "Chance to smelt a trinket on hit, spawns 3 random trinkets on pickup",
+    "iconPath": "collectibles/collectibles_538.png",
+    "introducedIn": "repentance"
+  },
+  "539": {
+    "name": "Mystery Egg",
+    "description": "Familiar, spawns a charmed enemy on hit",
+    "iconPath": "collectibles/collectibles_539.png",
+    "introducedIn": "repentance"
+  },
+  "540": {
+    "name": "Flat Stone",
+    "description": "Bouncing tears (tears bounce on the ground, 0.25x splash dmg)",
+    "iconPath": "collectibles/collectibles_540.png",
+    "introducedIn": "repentance"
+  },
+  "541": {
+    "name": "Marrow",
+    "description": "spawns 3 red hearts on pickup",
+    "iconPath": "collectibles/collectibles_541.png",
+    "introducedIn": "repentance"
+  },
+  "542": {
+    "name": "Slipped Rib",
+    "description": "Orbital, reflects enemy projectiles, does no contact damage",
+    "iconPath": "collectibles/collectibles_542.png",
+    "introducedIn": "repentance"
+  },
+  "543": {
+    "name": "Hallowed Ground",
+    "description": "Spawns a white poop on hit (makes an aura that halves tear delay + 1.25 dmg multiplier + chance to block damage)",
+    "iconPath": "collectibles/collectibles_543.png",
+    "introducedIn": "repentance"
+  },
+  "544": {
+    "name": "Pointy Rib",
+    "description": "Familiar, bobs back and forth (1x contact dmg)",
+    "iconPath": "collectibles/collectibles_544.png",
+    "introducedIn": "repentance"
+  },
+  "545": {
+    "name": "Book of the Dead",
+    "description": "Converts killed enemies into temporary orbitals or charmed Bonies",
+    "iconPath": "collectibles/collectibles_545.png",
+    "introducedIn": "repentance"
+  },
+  "546": {
+    "name": "Dad's Ring",
+    "description": "Yellow ring that petrifies enemies on contact",
+    "iconPath": "collectibles/collectibles_546.png",
+    "introducedIn": "repentance"
+  },
+  "547": {
+    "name": "Divorce Papers",
+    "description": "spawns Mysterious Paper on pickup",
+    "iconPath": "collectibles/collectibles_547.png",
+    "introducedIn": "repentance"
+  },
+  "548": {
+    "name": "Jaw Bone",
+    "description": "Familiar, can grab pickups like a Boomerang",
+    "iconPath": "collectibles/collectibles_548.png",
+    "introducedIn": "repentance"
+  },
+  "549": {
+    "name": "Brittle Bones",
+    "description": "Removes all red hearts, big bone splash and tears up when a bone heart is lost",
+    "iconPath": "collectibles/collectibles_549.png",
+    "introducedIn": "repentance"
+  },
+  "550": {
+    "name": "Broken Shovel",
+    "description": "Used in the Booster Pack #5 quest",
+    "iconPath": "collectibles/collectibles_550.png",
+    "introducedIn": "repentance"
+  },
+  "551": {
+    "name": "Broken Shovel",
+    "description": "Used in the Booster Pack #5 quest",
+    "iconPath": "collectibles/collectibles_551.png",
+    "introducedIn": "repentance"
+  },
+  "552": {
+    "name": "Mom's Shovel",
+    "description": "Used in the Booster Pack #5 quest, spawns a trapdoor (10% chance for crawlspace)",
+    "iconPath": "collectibles/collectibles_552.png",
+    "introducedIn": "repentance"
+  },
+  "553": {
+    "name": "Mucormycosis",
+    "description": "Chance to shoot spore tears that stick on enemies and can split into small spore tears",
+    "iconPath": "collectibles/collectibles_553.png",
+    "introducedIn": "repentance"
+  },
+  "554": {
+    "name": "2Spooky",
+    "description": "Aura that fears enemies",
+    "iconPath": "collectibles/collectibles_554.png",
+    "introducedIn": "repentance"
+  },
+  "555": {
+    "name": "Golden Razor",
+    "description": "+5 coins, spend 5 coins on use to gain temporary dmg up in the current room",
+    "iconPath": "collectibles/collectibles_555.png",
+    "introducedIn": "repentance"
+  },
+  "556": {
+    "name": "Sulfur",
+    "description": "Gives temporary Brimstone",
+    "iconPath": "collectibles/collectibles_556.png",
+    "introducedIn": "repentance"
+  },
+  "557": {
+    "name": "Fortune Cookie",
+    "description": "Spawns a soul heart / card / fortune teller",
+    "iconPath": "collectibles/collectibles_557.png",
+    "introducedIn": "repentance"
+  },
+  "558": {
+    "name": "Eye Sore",
+    "description": "Extra tears are fired in random directions",
+    "iconPath": "collectibles/collectibles_558.png",
+    "introducedIn": "repentance"
+  },
+  "559": {
+    "name": "120 Volt",
+    "description": "Auto fire lightning arcs at enemies in close proximity",
+    "iconPath": "collectibles/collectibles_559.png",
+    "introducedIn": "repentance"
+  },
+  "560": {
+    "name": "It Hurts",
+    "description": "Ring of bloody tears + temporary tears up on hit",
+    "iconPath": "collectibles/collectibles_560.png",
+    "introducedIn": "repentance"
+  },
+  "561": {
+    "name": "Almond Milk",
+    "description": "Tears gain random worm effects",
+    "iconPath": "collectibles/collectibles_561.png",
+    "introducedIn": "repentance"
+  },
+  "562": {
+    "name": "Rock Bottom",
+    "description": "Stats can't go down",
+    "iconPath": "collectibles/collectibles_562.png",
+    "introducedIn": "repentance"
+  },
+  "563": {
+    "name": "Nancy Bombs",
+    "description": "+5 bombs, bombs explode with a random effect",
+    "iconPath": "collectibles/collectibles_563.png",
+    "introducedIn": "repentance"
+  },
+  "564": {
+    "name": "A Bar of Soap",
+    "description": "",
+    "iconPath": "collectibles/collectibles_564.png",
+    "introducedIn": "repentance"
+  },
+  "565": {
+    "name": "Blood Puppy",
+    "description": "Familiar that attack enemies and grows stronger, can attack the player and need to be killed to be a puppy again",
+    "iconPath": "collectibles/collectibles_565.png",
+    "introducedIn": "repentance"
+  },
+  "566": {
+    "name": "Dream Catcher",
+    "description": "Reveals next boss and treasure room items in level transitions + half soul heart every floor",
+    "iconPath": "collectibles/collectibles_566.png",
+    "introducedIn": "repentance"
+  },
+  "567": {
+    "name": "Paschal Candle",
+    "description": "+0.4 tears up for each room cleared (max 6), resets on hit",
+    "iconPath": "collectibles/collectibles_567.png",
+    "introducedIn": "repentance"
+  },
+  "568": {
+    "name": "Divine Intervention",
+    "description": "A shield that reflects bullets, brimstone lasers and knock back enemies",
+    "iconPath": "collectibles/collectibles_568.png",
+    "introducedIn": "repentance"
+  },
+  "569": {
+    "name": "Blood Oath",
+    "description": "Familiar that trades extra red health for damage and speed at the beginning of a floor",
+    "iconPath": "collectibles/collectibles_569.png",
+    "introducedIn": "repentance"
+  },
+  "570": {
+    "name": "Playdough Cookie",
+    "description": "Random status effect tears (normal/petrify/homing/poison/fear/freeze) + random colors to tears",
+    "iconPath": "collectibles/collectibles_570.png",
+    "introducedIn": "repentance"
+  },
+  "571": {
+    "name": "Orphan Socks",
+    "description": "Immunity from spike and creep damage",
+    "iconPath": "collectibles/collectibles_571.png",
+    "introducedIn": "repentance"
+  },
+  "572": {
+    "name": "Eye of the Occult",
+    "description": "tears can be controlled mid-flight",
+    "iconPath": "collectibles/collectibles_572.png",
+    "introducedIn": "repentance"
+  },
+  "573": {
+    "name": "Immaculate Heart",
+    "description": "Additional set of orbiting spectral tears",
+    "iconPath": "collectibles/collectibles_573.png",
+    "introducedIn": "repentance"
+  },
+  "574": {
+    "name": "Monstrance",
+    "description": "Grants aura that damages enemies",
+    "iconPath": "collectibles/collectibles_574.png",
+    "introducedIn": "repentance"
+  },
+  "575": {
+    "name": "The Intruder",
+    "description": "Add 4 slowing tears, chance to spawn blue spiders and release Intruder familiar on hit",
+    "iconPath": "collectibles/collectibles_575.png",
+    "introducedIn": "repentance"
+  },
+  "576": {
+    "name": "Dirty Mind",
+    "description": "Dips become friendly, spawns friendly Dips when destroying poop",
+    "iconPath": "collectibles/collectibles_576.png",
+    "introducedIn": "repentance"
+  },
+  "577": {
+    "name": "Damocles",
+    "description": "Double item pedestals, chance of permanent death after the first hit when activated",
+    "iconPath": "collectibles/collectibles_577.png",
+    "introducedIn": "repentance"
+  },
+  "578": {
+    "name": "Free Lemonade",
+    "description": "Lemon Party effect",
+    "iconPath": "collectibles/collectibles_578.png",
+    "introducedIn": "repentance"
+  },
+  "579": {
+    "name": "Spirit Sword",
+    "description": "Sword replaces tears",
+    "iconPath": "collectibles/collectibles_579.png",
+    "introducedIn": "repentance"
+  },
+  "580": {
+    "name": "Red Key",
+    "description": "Creates additional red rooms",
+    "iconPath": "collectibles/collectibles_580.png",
+    "introducedIn": "repentance"
+  },
+  "581": {
+    "name": "Psy Fly",
+    "description": "Orbital, reflects enemy projectiles as homing tears",
+    "iconPath": "collectibles/collectibles_581.png",
+    "introducedIn": "repentance"
+  },
+  "582": {
+    "name": "Wavy Cap",
+    "description": "Every time you use it : +0.75 tears, -0.03 speed, distorts graphics/sound for the current floor",
+    "iconPath": "collectibles/collectibles_582.png",
+    "introducedIn": "repentance"
+  },
+  "583": {
+    "name": "Rocket in a Jar",
+    "description": "+5 bombs, allow to shoot a rocket in the direction where you shoot",
+    "iconPath": "collectibles/collectibles_583.png",
+    "introducedIn": "repentance"
+  },
+  "584": {
+    "name": "Book of Virtues",
+    "description": "Spawn a wisp orbital that have the effect of the active item that is inside the book",
+    "iconPath": "collectibles/collectibles_584.png",
+    "introducedIn": "repentance"
+  },
+  "585": {
+    "name": "Alabaster Box",
+    "description": "Converts soul/black hearts to Angel Room items + random number of soul hearts",
+    "iconPath": "collectibles/collectibles_585.png",
+    "introducedIn": "repentance"
+  },
+  "586": {
+    "name": "The Stairway",
+    "description": "Start of each floor has ladder to a special Angel Shop",
+    "iconPath": "collectibles/collectibles_586.png",
+    "introducedIn": "repentance"
+  },
+  "588": {
+    "name": "Sol",
+    "description": "Reveals location of the boss, Sun card effect + active item recharge + 2x dmg + +1 luck + removes curses upon killing the boss",
+    "iconPath": "collectibles/collectibles_588.png",
+    "introducedIn": "repentance"
+  },
+  "589": {
+    "name": "Luna",
+    "description": "Extra secret and super secret rooms on each floor that contains a blue light beam that gives half a soul heart + tears up for current floor",
+    "iconPath": "collectibles/collectibles_589.png",
+    "introducedIn": "repentance"
+  },
+  "590": {
+    "name": "Mercurius",
+    "description": "Non-special room doors stay open",
+    "iconPath": "collectibles/collectibles_590.png",
+    "introducedIn": "repentance"
+  },
+  "591": {
+    "name": "Venus",
+    "description": "Close enemies get charmed",
+    "iconPath": "collectibles/collectibles_591.png",
+    "introducedIn": "repentance"
+  },
+  "592": {
+    "name": "Terra",
+    "description": "Rock tears (knockback, can destroy obstacles), random slight dmg up/down on some tears",
+    "iconPath": "collectibles/collectibles_592.png",
+    "introducedIn": "repentance"
+  },
+  "593": {
+    "name": "Mars",
+    "description": "Double tap to dash, invincible when dashing on enemies",
+    "iconPath": "collectibles/collectibles_593.png",
+    "introducedIn": "repentance"
+  },
+  "594": {
+    "name": "Jupiter",
+    "description": "Build up gas by standing still, release lingering fart clouds and speed goes down when moving",
+    "iconPath": "collectibles/collectibles_594.png",
+    "introducedIn": "repentance"
+  },
+  "595": {
+    "name": "Saturnus",
+    "description": "Grants orbiting tears aura refreshing per room, can transform enemy tears into friendly tears",
+    "iconPath": "collectibles/collectibles_595.png",
+    "introducedIn": "repentance"
+  },
+  "596": {
+    "name": "Uranus",
+    "description": "Ice tears (enemies killed will become frozen and can be kicked)",
+    "iconPath": "collectibles/collectibles_596.png",
+    "introducedIn": "repentance"
+  },
+  "597": {
+    "name": "Neptunus",
+    "description": "Charge an attack that makes you shoot several tears with decreasing fire rate",
+    "iconPath": "collectibles/collectibles_597.png",
+    "introducedIn": "repentance"
+  },
+  "598": {
+    "name": "Pluto",
+    "description": "Size down, can pass between blocks",
+    "iconPath": "collectibles/collectibles_598.png",
+    "introducedIn": "repentance"
+  },
+  "599": {
+    "name": "Voodoo Head",
+    "description": "Generates 2 Curse Rooms per floor, improved curse room layouts/rewards",
+    "iconPath": "collectibles/collectibles_599.png",
+    "introducedIn": "repentance"
+  },
+  "600": {
+    "name": "Eye Drops",
+    "description": "Tears up only on left eye",
+    "iconPath": "collectibles/collectibles_600.png",
+    "introducedIn": "repentance"
+  },
+  "601": {
+    "name": "Act of Contrition",
+    "description": "+1 eternal heart, allows Angel Rooms even if a devil deal has been taken",
+    "iconPath": "collectibles/collectibles_601.png",
+    "introducedIn": "repentance"
+  },
+  "602": {
+    "name": "Member Card",
+    "description": "Every shop has a trapdoor to a special shop",
+    "iconPath": "collectibles/collectibles_602.png",
+    "introducedIn": "repentance"
+  },
+  "603": {
+    "name": "Battery Pack",
+    "description": "Recharges active item, spawns 3 random batteries on pickup",
+    "iconPath": "collectibles/collectibles_603.png",
+    "introducedIn": "repentance"
+  },
+  "604": {
+    "name": "Mom's Bracelet",
+    "description": "Can throw obstacles",
+    "iconPath": "collectibles/collectibles_604.png",
+    "introducedIn": "repentance"
+  },
+  "605": {
+    "name": "The Scooper",
+    "description": "Spawns a temporary familiar similar to The Peeper",
+    "iconPath": "collectibles/collectibles_605.png",
+    "introducedIn": "repentance"
+  },
+  "606": {
+    "name": "Ocular Rift",
+    "description": "Chance to shoot rift tears (summons rifts that attract + deal contact dmg)",
+    "iconPath": "collectibles/collectibles_606.png",
+    "introducedIn": "repentance"
+  },
+  "607": {
+    "name": "Boiled Baby",
+    "description": "Familiar, acts like a Boil",
+    "iconPath": "collectibles/collectibles_607.png",
+    "introducedIn": "repentance"
+  },
+  "608": {
+    "name": "Freezer Baby",
+    "description": "Familiar that fires freezing tears",
+    "iconPath": "collectibles/collectibles_608.png",
+    "introducedIn": "repentance"
+  },
+  "609": {
+    "name": "Eternal D6",
+    "description": "Like a D6, but has a chance to make the item disappear",
+    "iconPath": "collectibles/collectibles_609.png",
+    "introducedIn": "repentance"
+  },
+  "610": {
+    "name": "Bird Cage",
+    "description": "Spawns bird familiar when hit (similar to Dead Bird) that stomps enemies",
+    "iconPath": "collectibles/collectibles_610.png",
+    "introducedIn": "repentance"
+  },
+  "611": {
+    "name": "Larynx",
+    "description": "Release a sonic waves (power depends on the number of charges) that damage enemies and destroys rocks",
+    "iconPath": "collectibles/collectibles_611.png",
+    "introducedIn": "repentance"
+  },
+  "612": {
+    "name": "Lost Soul",
+    "description": "Familiar, 1 hit per floor, if it survives it grants a random reward",
+    "iconPath": "collectibles/collectibles_612.png",
+    "introducedIn": "repentance"
+  },
+  "614": {
+    "name": "Blood Bombs",
+    "description": "Bombs leave behind red creep, can plant bombs for 1/2 heart, heals 5 hearts",
+    "iconPath": "collectibles/collectibles_614.png",
+    "introducedIn": "repentance"
+  },
+  "615": {
+    "name": "Lil Dumpy",
+    "description": "Familiar, makes stun/poison farts when an enemy or projectile is about to hit the player",
+    "iconPath": "collectibles/collectibles_615.png",
+    "introducedIn": "repentance"
+  },
+  "616": {
+    "name": "Bird's Eye",
+    "description": "Chance to shoot a big red fire",
+    "iconPath": "collectibles/collectibles_616.png",
+    "introducedIn": "repentance"
+  },
+  "617": {
+    "name": "Lodestone",
+    "description": "Chance to shoot magnetizing tears (attract enemies + tears + projectiles)",
+    "iconPath": "collectibles/collectibles_617.png",
+    "introducedIn": "repentance"
+  },
+  "618": {
+    "name": "Rotten Tomato",
+    "description": "Chance to shoot marked tears (other enemies will attack a marked enemy)",
+    "iconPath": "collectibles/collectibles_618.png",
+    "introducedIn": "repentance"
+  },
+  "619": {
+    "name": "Birthright",
+    "description": "Custom reward based on character",
+    "iconPath": "collectibles/collectibles_619.png",
+    "introducedIn": "repentance"
+  },
+  "621": {
+    "name": "Red Stew",
+    "description": "Full heal, dmg up that wears off over time",
+    "iconPath": "collectibles/collectibles_621.png",
+    "introducedIn": "repentance"
+  },
+  "622": {
+    "name": "Genesis",
+    "description": "Resets player to its initial state and teleport the player to a room where he can pick as many items as they had before",
+    "iconPath": "collectibles/collectibles_622.png",
+    "introducedIn": "repentance"
+  },
+  "623": {
+    "name": "Sharp Key",
+    "description": "Consumes a key and throws it to deal damage / open doors, +5 keys on pickup. Killed enemies have a chance to spawn rewards from a chest",
+    "iconPath": "collectibles/collectibles_623.png",
+    "introducedIn": "repentance"
+  },
+  "624": {
+    "name": "Booster Pack",
+    "description": "Spawns 5 random cards on pickup",
+    "iconPath": "collectibles/collectibles_624.png",
+    "introducedIn": "repentance"
+  },
+  "625": {
+    "name": "Mega Mush",
+    "description": "Gigantify for a short duration (+damage, +2 range, -tears, invulnerable, crush rocks/blocks/doors)",
+    "iconPath": "collectibles/collectibles_625.png",
+    "introducedIn": "repentance"
+  },
+  "626": {
+    "name": "Knife Piece 1",
+    "description": "Collect the pieces to get a knife familiar",
+    "iconPath": "collectibles/collectibles_626.png",
+    "introducedIn": "repentance"
+  },
+  "627": {
+    "name": "Knife Piece 2",
+    "description": "Collect the pieces to get a knife familiar",
+    "iconPath": "collectibles/collectibles_627.png",
+    "introducedIn": "repentance"
+  },
+  "628": {
+    "name": "Death Certificate",
+    "description": "Allows you to choose one item among all items in the game",
+    "iconPath": "collectibles/collectibles_628.png",
+    "introducedIn": "repentance"
+  },
+  "629": {
+    "name": "Bot Fly",
+    "description": "Familiar, orbits and fires shielded tears",
+    "iconPath": "collectibles/collectibles_629.png",
+    "introducedIn": "repentance"
+  },
+  "631": {
+    "name": "Meat Cleaver",
+    "description": "Splits all enemies in the room into 2 smaller versions",
+    "iconPath": "collectibles/collectibles_631.png",
+    "introducedIn": "repentance"
+  },
+  "632": {
+    "name": "Evil Charm",
+    "description": "Fear, burn, confusion, toxic gas cloud and Dogma's Godhead tears immunity",
+    "iconPath": "collectibles/collectibles_632.png",
+    "introducedIn": "repentance"
+  },
+  "633": {
+    "name": "Dogma",
+    "description": "Grants fly + a holy mantle. Heal the player to 6 hearts if he has less than 6 hearts",
+    "iconPath": "collectibles/collectibles_633.png",
+    "introducedIn": "repentance"
+  },
+  "634": {
+    "name": "Purgatory",
+    "description": "A red crack spawns at a random position, standing on it will cause a soul to fly to the nearest enemy and hit it",
+    "iconPath": "collectibles/collectibles_634.png",
+    "introducedIn": "repentance"
+  },
+  "635": {
+    "name": "Stitches",
+    "description": "Spawns a temporary familiar, can swap positions with the familiar to deal damage",
+    "iconPath": "collectibles/collectibles_635.png",
+    "introducedIn": "repentance"
+  },
+  "636": {
+    "name": "R Key",
+    "description": "Restarts the game to the first floor but keeps all items",
+    "iconPath": "collectibles/collectibles_636.png",
+    "introducedIn": "repentance"
+  },
+  "637": {
+    "name": "Knockout Drops",
+    "description": "Chance to shoot fist tears (knockback + stun), knocking enemies into walls or other enemies damage them",
+    "iconPath": "collectibles/collectibles_637.png",
+    "introducedIn": "repentance"
+  },
+  "638": {
+    "name": "Eraser",
+    "description": "Throw on an enemy to permanently remove that enemy from the current run, recharge every floor",
+    "iconPath": "collectibles/collectibles_638.png",
+    "introducedIn": "repentance"
+  },
+  "639": {
+    "name": "Yuck Heart",
+    "description": "+1 rotten heart on use",
+    "iconPath": "collectibles/collectibles_639.png",
+    "introducedIn": "repentance"
+  },
+  "640": {
+    "name": "Urn of Souls",
+    "description": "A flamethrower weapon that collects one soul per enemy killed",
+    "iconPath": "collectibles/collectibles_640.png",
+    "introducedIn": "repentance"
+  },
+  "641": {
+    "name": "Akeldama",
+    "description": "Spawns bloody tears behind the player",
+    "iconPath": "collectibles/collectibles_641.png",
+    "introducedIn": "repentance"
+  },
+  "642": {
+    "name": "Magic Skin",
+    "description": "Converts 1 red heart / 2 soul hearts to a broken heart, spawns a pedestal item",
+    "iconPath": "collectibles/collectibles_642.png",
+    "introducedIn": "repentance"
+  },
+  "643": {
+    "name": "Revelation",
+    "description": "Grants flight and an additional angelic beam attack",
+    "iconPath": "collectibles/collectibles_643.png",
+    "introducedIn": "repentance"
+  },
+  "644": {
+    "name": "Consolation Prize",
+    "description": "Stat up on the lowest one, +3 coins or +1 bomb or +1 key (depending on lowest)",
+    "iconPath": "collectibles/collectibles_644.png",
+    "introducedIn": "repentance"
+  },
+  "645": {
+    "name": "Tinytoma",
+    "description": "Orbital, splits into blue spiders on hit",
+    "iconPath": "collectibles/collectibles_645.png",
+    "introducedIn": "repentance"
+  },
+  "646": {
+    "name": "Brimstone bombs",
+    "description": "+5 bombs, bombs now do a Krampus cross effect on explosion",
+    "iconPath": "collectibles/collectibles_646.png",
+    "introducedIn": "repentance"
+  },
+  "647": {
+    "name": "4.5 Volt",
+    "description": "Active items now only charge based on damage dealt",
+    "iconPath": "collectibles/collectibles_647.png",
+    "introducedIn": "repentance"
+  },
+  "649": {
+    "name": "Fruity Plum",
+    "description": "Baby Plum familiar that propel itself diagonally by shooting tears",
+    "iconPath": "collectibles/collectibles_649.png",
+    "introducedIn": "repentance"
+  },
+  "650": {
+    "name": "Plum Flute",
+    "description": "Spawns Baby Plum",
+    "iconPath": "collectibles/collectibles_650.png",
+    "introducedIn": "repentance"
+  },
+  "651": {
+    "name": "Star of Bethlehem",
+    "description": "A star that moves from starting room to boss room with a Hallowed Ground aura (tears/dmg up + chance to block damage)",
+    "iconPath": "collectibles/collectibles_651.png",
+    "introducedIn": "repentance"
+  },
+  "652": {
+    "name": "Cube Baby",
+    "description": "A frozen baby familiar that can be kicked",
+    "iconPath": "collectibles/collectibles_652.png",
+    "introducedIn": "repentance"
+  },
+  "653": {
+    "name": "Vade Retro",
+    "description": "Spawns a little red ghost for each enemy killed and explode when you use the active item again",
+    "iconPath": "collectibles/collectibles_653.png",
+    "introducedIn": "repentance"
+  },
+  "654": {
+    "name": "False PHD",
+    "description": "Good pills become bad or neutral pill. Stat down pill grants a dmg up, other bad pills gives a black heart",
+    "iconPath": "collectibles/collectibles_654.png",
+    "introducedIn": "repentance"
+  },
+  "655": {
+    "name": "Spin to Win",
+    "description": "A spinning familiar, holding use key gives +0.5 speed + orbitals spin faster and deal more dmg",
+    "iconPath": "collectibles/collectibles_655.png",
+    "introducedIn": "repentance"
+  },
+  "656": {
+    "name": "Damocles",
+    "description": "Double item pedestals, chance of permanent death after the first hit when activated",
+    "iconPath": "collectibles/collectibles_656.png",
+    "introducedIn": "repentance"
+  },
+  "657": {
+    "name": "Vasculitis",
+    "description": "Killed enemies shot blood tears in random directions",
+    "iconPath": "collectibles/collectibles_657.png",
+    "introducedIn": "repentance"
+  },
+  "658": {
+    "name": "Giant Cell",
+    "description": "Spawn mini Isaacs that follow you and attack enemies when hit",
+    "iconPath": "collectibles/collectibles_658.png",
+    "introducedIn": "repentance"
+  },
+  "659": {
+    "name": "Tropicamide",
+    "description": "Tear size up",
+    "iconPath": "collectibles/collectibles_659.png",
+    "introducedIn": "repentance"
+  },
+  "660": {
+    "name": "Card Reading",
+    "description": "Spawn 2 of 3 different portals in starting room (red goes to boss room, yellow to treasure room, blue to secret room)",
+    "iconPath": "collectibles/collectibles_660.png",
+    "introducedIn": "repentance"
+  },
+  "661": {
+    "name": "Quints",
+    "description": "Killed enemies drop a baby familiar that stays in place and shoot in the same direction as the player",
+    "iconPath": "collectibles/collectibles_661.png",
+    "introducedIn": "repentance"
+  },
+  "663": {
+    "name": "Tooth and Nail",
+    "description": "Transforms the player into a spiked stone statue for 1 sec every 5 sec, invincibility + contact dmg on statue form",
+    "iconPath": "collectibles/collectibles_663.png",
+    "introducedIn": "repentance"
+  },
+  "664": {
+    "name": "Binge Eater",
+    "description": "For each item you'll see, a food item is proposed. Food items give 2 stat ups and a temporary dmg up",
+    "iconPath": "collectibles/collectibles_664.png",
+    "introducedIn": "repentance"
+  },
+  "665": {
+    "name": "Guppy's Eye",
+    "description": "Shows the content of chests, fires and shopkeepers",
+    "iconPath": "collectibles/collectibles_665.png",
+    "introducedIn": "repentance"
+  },
+  "667": {
+    "name": "Strawman",
+    "description": "A Keeper familiar that acts as a second player and has its own HP and items",
+    "iconPath": "collectibles/collectibles_667.png",
+    "introducedIn": "repentance"
+  },
+  "668": {
+    "name": "Dad's Note",
+    "description": "Sends you on the backwards path, no gameplay effect",
+    "iconPath": "collectibles/collectibles_668.png",
+    "introducedIn": "repentance"
+  },
+  "669": {
+    "name": "Sausage",
+    "description": "Full heal",
+    "iconPath": "collectibles/collectibles_669.png",
+    "introducedIn": "repentance"
+  },
+  "670": {
+    "name": "Options?",
+    "description": "Can choose between two room reward pickups",
+    "iconPath": "collectibles/collectibles_670.png",
+    "introducedIn": "repentance"
+  },
+  "671": {
+    "name": "Candy Heart",
+    "description": "Minor random stat up for every red heart picked up",
+    "iconPath": "collectibles/collectibles_671.png",
+    "introducedIn": "repentance"
+  },
+  "672": {
+    "name": "A Pound of Flesh",
+    "description": "Devil deals cost money, shop items cost hearts, shop pickups require to take damage",
+    "iconPath": "collectibles/collectibles_672.png",
+    "introducedIn": "repentance"
+  },
+  "673": {
+    "name": "Redemption",
+    "description": "Dmg up + half soul heart at the start of next floor if you took nothing in the devil deal",
+    "iconPath": "collectibles/collectibles_673.png",
+    "introducedIn": "repentance"
+  },
+  "674": {
+    "name": "Spirit Shackles",
+    "description": "On death, turn into Forgotten's Soul chained to a dead Blue Baby, revives if still alive after 10 sec",
+    "iconPath": "collectibles/collectibles_674.png",
+    "introducedIn": "repentance"
+  },
+  "675": {
+    "name": "Cracked Orb",
+    "description": "On hit: reveal a random room, open adjacent locked/secret rooms, break tinted rocks or rocks that hides a ladder",
+    "iconPath": "collectibles/collectibles_675.png",
+    "introducedIn": "repentance"
+  },
+  "676": {
+    "name": "Empty Heart",
+    "description": "Grants an empty heart container if you enter a new floor with 1 red heart or less",
+    "iconPath": "collectibles/collectibles_676.png",
+    "introducedIn": "repentance"
+  },
+  "677": {
+    "name": "Astral Projection",
+    "description": "On hit: stop time and turn into the lost. Revert into original char on hit or room clear",
+    "iconPath": "collectibles/collectibles_677.png",
+    "introducedIn": "repentance"
+  },
+  "678": {
+    "name": "C Section",
+    "description": "Shoot fetus tears",
+    "iconPath": "collectibles/collectibles_678.png",
+    "introducedIn": "repentance"
+  },
+  "679": {
+    "name": "Lil Abaddon",
+    "description": "Familiar that fires a Maw of the Void ring",
+    "iconPath": "collectibles/collectibles_679.png",
+    "introducedIn": "repentance"
+  },
+  "680": {
+    "name": "Montezuma's Revenge",
+    "description": "Fires a short diarrhea Brimstone backwards",
+    "iconPath": "collectibles/collectibles_680.png",
+    "introducedIn": "repentance"
+  },
+  "681": {
+    "name": "Lil Portal",
+    "description": "A familiar that spawns a portal to an unexplored room if it absorbed enough pickups",
+    "iconPath": "collectibles/collectibles_681.png",
+    "introducedIn": "repentance"
+  },
+  "682": {
+    "name": "Worm Friend",
+    "description": "A tentacle that lurks underground and randomly grabs an enemy",
+    "iconPath": "collectibles/collectibles_682.png",
+    "introducedIn": "repentance"
+  },
+  "683": {
+    "name": "Bone Spurs",
+    "description": "Killed enemies spawn bone chunks",
+    "iconPath": "collectibles/collectibles_683.png",
+    "introducedIn": "repentance"
+  },
+  "684": {
+    "name": "Hungry Soul",
+    "description": "Killed enemies have a chance to spawn a homing soul that chases enemies and attack them",
+    "iconPath": "collectibles/collectibles_684.png",
+    "introducedIn": "repentance"
+  },
+  "685": {
+    "name": "Jar of Wisps",
+    "description": "Spawns a random wisp + another random wisp for every past uses (up to 12)",
+    "iconPath": "collectibles/collectibles_685.png",
+    "introducedIn": "repentance"
+  },
+  "686": {
+    "name": "Soul Locket",
+    "description": "Minor random stat up for every soul heart picked up",
+    "iconPath": "collectibles/collectibles_686.png",
+    "introducedIn": "repentance"
+  },
+  "687": {
+    "name": "Friend Finder",
+    "description": "Spawns a random controllable friendly enemy",
+    "iconPath": "collectibles/collectibles_687.png",
+    "introducedIn": "repentance"
+  },
+  "688": {
+    "name": "Inner Child",
+    "description": "+1 life. On revive, explode and turn into a tiny version of Isaac with higher speed",
+    "iconPath": "collectibles/collectibles_688.png",
+    "introducedIn": "repentance"
+  },
+  "689": {
+    "name": "Glitched Crown",
+    "description": "Pedestals rapidly cycle between 5 random items",
+    "iconPath": "collectibles/collectibles_689.png",
+    "introducedIn": "repentance"
+  },
+  "690": {
+    "name": "Belly Jelly",
+    "description": "Chance to reflect shots and negate contact damage, bouncing the enemies instead",
+    "iconPath": "collectibles/collectibles_690.png",
+    "introducedIn": "repentance"
+  },
+  "691": {
+    "name": "Sacred Orb",
+    "description": "Prevents quality 0 and 1 items from appearing. 33% chance for quality 2 items to be rerolled",
+    "iconPath": "collectibles/collectibles_691.png",
+    "introducedIn": "repentance"
+  },
+  "692": {
+    "name": "Sanguine Bond",
+    "description": "Spikes in front of devil statue, taking damage on them can yield various rewards",
+    "iconPath": "collectibles/collectibles_692.png",
+    "introducedIn": "repentance"
+  },
+  "693": {
+    "name": "The Swarm",
+    "description": "Grants a halo of fly orbitals, turn them into blue flies on hit, +1 orbital fly per room clear",
+    "iconPath": "collectibles/collectibles_693.png",
+    "introducedIn": "repentance"
+  },
+  "694": {
+    "name": "Heartbreak",
+    "description": "Add 3 broken hearts",
+    "iconPath": "collectibles/collectibles_694.png",
+    "introducedIn": "repentance"
+  },
+  "695": {
+    "name": "Bloody Gust",
+    "description": "Tears and speed up on hit (resets every floor)",
+    "iconPath": "collectibles/collectibles_695.png",
+    "introducedIn": "repentance"
+  },
+  "696": {
+    "name": "Salvation",
+    "description": "Grants an aura that makes enemies exploding in a cross of lightbeams after few seconds in it, gets bigger on hit, shrinks upon entering new floor",
+    "iconPath": "collectibles/collectibles_696.png",
+    "introducedIn": "repentance"
+  },
+  "697": {
+    "name": "Vanishing Twin",
+    "description": "Familiar that turns into a hostile copy of any boss encountered, boss rooms yield double rewards",
+    "iconPath": "collectibles/collectibles_697.png",
+    "introducedIn": "repentance"
+  },
+  "698": {
+    "name": "Twisted Pair",
+    "description": "Gives two small demons that copy the player's tears (37.5% of player's dmg for each demon)",
+    "iconPath": "collectibles/collectibles_698.png",
+    "introducedIn": "repentance"
+  },
+  "699": {
+    "name": "Azazel's Rage",
+    "description": "Builds rage every time a room is cleared, fires a large Brimstone at full rage upon entering next room",
+    "iconPath": "collectibles/collectibles_699.png",
+    "introducedIn": "repentance"
+  },
+  "700": {
+    "name": "Echo Chamber",
+    "description": "Every time a card/pill is used, it also trigger the 3 previous pill/cards used",
+    "iconPath": "collectibles/collectibles_700.png",
+    "introducedIn": "repentance"
+  },
+  "701": {
+    "name": "Isaac's Tomb",
+    "description": "Chest appears in the starting room of each floor, gives at random: 3 soul hearts, 3 trinkets, Old Chest item, Angel item",
+    "iconPath": "collectibles/collectibles_701.png",
+    "introducedIn": "repentance"
+  },
+  "702": {
+    "name": "Vengeful Spirit",
+    "description": "Spawns an invincible red wisp every time the player takes damage, wisps disappear on next floor",
+    "iconPath": "collectibles/collectibles_702.png",
+    "introducedIn": "repentance"
+  },
+  "703": {
+    "name": "Esau Jr.",
+    "description": "Toggle between current char and a mini Esau that starts with high damage and 3 black hearts and has its own items",
+    "iconPath": "collectibles/collectibles_703.png",
+    "introducedIn": "repentance"
+  },
+  "704": {
+    "name": "Berserk!",
+    "description": "Temporary +3 dmg and melee attack. This item charge by damaging enemies",
+    "iconPath": "collectibles/collectibles_704.png",
+    "introducedIn": "repentance"
+  },
+  "705": {
+    "name": "Dark Arts",
+    "description": "Turn into shadow form, phase through enemies to deal damage 2 sec after, more damage dodged = more dmg up",
+    "iconPath": "collectibles/collectibles_705.png",
+    "introducedIn": "repentance"
+  },
+  "706": {
+    "name": "Abyss",
+    "description": "Destroys any item in the room and turn it into permanent red locusts that attack by dashing at enemies",
+    "iconPath": "collectibles/collectibles_706.png",
+    "introducedIn": "repentance"
+  },
+  "707": {
+    "name": "Supper",
+    "description": "",
+    "iconPath": "collectibles/collectibles_707.png",
+    "introducedIn": "repentance"
+  },
+  "708": {
+    "name": "Stapler",
+    "description": "Tears only come out from the player's right eye",
+    "iconPath": "collectibles/collectibles_708.png",
+    "introducedIn": "repentance"
+  },
+  "709": {
+    "name": "Suplex!",
+    "description": "Dash into an enemy, grab it and slam it on the ground. Dmg scales on player's size",
+    "iconPath": "collectibles/collectibles_709.png",
+    "introducedIn": "repentance"
+  },
+  "710": {
+    "name": "Bag of Crafting",
+    "description": "Take pickups to transform them into items",
+    "iconPath": "collectibles/collectibles_710.png",
+    "introducedIn": "repentance"
+  },
+  "711": {
+    "name": "Flip",
+    "description": "Each pedestal that is part of the room layout will have 2 items. Use Flip to have the second item",
+    "iconPath": "collectibles/collectibles_711.png",
+    "introducedIn": "repentance"
+  },
+  "712": {
+    "name": "Lemegeton",
+    "description": "Spawn an item wisp that grants the effect of a random passive item until it dies",
+    "iconPath": "collectibles/collectibles_712.png",
+    "introducedIn": "repentance"
+  },
+  "713": {
+    "name": "Sumptorium",
+    "description": "Spawn a lil clot for half a heart. On T. Eve : convert clots to health",
+    "iconPath": "collectibles/collectibles_713.png",
+    "introducedIn": "repentance"
+  },
+  "714": {
+    "name": "Recall",
+    "description": "Sends back tainted Forgotten's body to the owner",
+    "iconPath": "collectibles/collectibles_714.png",
+    "introducedIn": "repentance"
+  },
+  "715": {
+    "name": "Hold",
+    "description": "Allows you to stock a Tainted Blue Baby poop and throw it later",
+    "iconPath": "collectibles/collectibles_715.png",
+    "introducedIn": "repentance"
+  },
+  "716": {
+    "name": "Keeper's Sack",
+    "description": "+1 key and +3 coins, gives a dmg/range/speed bonus that scales with the amount of money spent in shops",
+    "iconPath": "collectibles/collectibles_716.png",
+    "introducedIn": "repentance"
+  },
+  "717": {
+    "name": "Keeper's Kin",
+    "description": "Rocks drop 1-3 spiders when destroyed, rocks can spawn blue spider in room with enemies in it",
+    "iconPath": "collectibles/collectibles_717.png",
+    "introducedIn": "repentance"
+  },
+  "719": {
+    "name": "Keeper's Box",
+    "description": "Spawns a random shop item",
+    "iconPath": "collectibles/collectibles_719.png",
+    "introducedIn": "repentance"
+  },
+  "720": {
+    "name": "Everything Jar",
+    "description": "Can be used anytime, various rewards depending on charge level",
+    "iconPath": "collectibles/collectibles_720.png",
+    "introducedIn": "repentance"
+  },
+  "721": {
+    "name": "TMTRAINER",
+    "description": "Causes all future items become glitched, giving fully randomized effects",
+    "iconPath": "collectibles/collectibles_721.png",
+    "introducedIn": "repentance"
+  },
+  "722": {
+    "name": "Anima Sola",
+    "description": "Summons chains around nearest enemy and temporarily prevent it from moving",
+    "iconPath": "collectibles/collectibles_722.png",
+    "introducedIn": "repentance"
+  },
+  "723": {
+    "name": "Spindown Dice",
+    "description": "Rerolls each item in the room into the item before it in numerical ID order",
+    "iconPath": "collectibles/collectibles_723.png",
+    "introducedIn": "repentance"
+  },
+  "724": {
+    "name": "Hypercoagulation",
+    "description": "On hit, spawns half a red heart that quickly disappears. Spawned heart's velocity increase the more you take damage",
+    "iconPath": "collectibles/collectibles_724.png",
+    "introducedIn": "repentance"
+  },
+  "725": {
+    "name": "IBS",
+    "description": "Causes you to throw a random type of poop at random intervals + chance to have Explosive Diarrhea when standing still",
+    "iconPath": "collectibles/collectibles_725.png",
+    "introducedIn": "repentance"
+  },
+  "726": {
+    "name": "Hemoptysis",
+    "description": "Double tap to sneeze on enemies, dealing 1.5x dmg",
+    "iconPath": "collectibles/collectibles_726.png",
+    "introducedIn": "repentance"
+  },
+  "727": {
+    "name": "Ghost Bombs",
+    "description": "+5 bombs, bombs spawn a friendly white soul which hunt down enemies",
+    "iconPath": "collectibles/collectibles_727.png",
+    "introducedIn": "repentance"
+  },
+  "728": {
+    "name": "Gello",
+    "description": "A baby that come from your belly and deals 3x dmg when it hit enemies, can also shoot tears",
+    "iconPath": "collectibles/collectibles_728.png",
+    "introducedIn": "repentance"
+  },
+  "729": {
+    "name": "Decap Attack",
+    "description": "Throw your head to deal 24 damage",
+    "iconPath": "collectibles/collectibles_729.png",
+    "introducedIn": "repentance"
+  },
+  "730": {
+    "name": "Glass Eye",
+    "description": "",
+    "iconPath": "collectibles/collectibles_730.png",
+    "introducedIn": "repentance"
+  },
+  "731": {
+    "name": "Stye",
+    "description": "Damage up/range up/shot speed down on the right eye",
+    "iconPath": "collectibles/collectibles_731.png",
+    "introducedIn": "repentance"
+  },
+  "732": {
+    "name": "Mom's Ring",
+    "description": "Gives a random rune",
+    "iconPath": "collectibles/collectibles_732.png",
+    "introducedIn": "repentance"
+  }
+}
