@@ -91,3 +91,22 @@ export const INITIAL_RUN_STATE: RunState = {
   items: [],
   floor: null,
 };
+
+// ---- Renderer-facing IPC payload types (Phase 3) ----------------------------
+
+/** Sent from main to renderer for initial state; items are resolved to full ItemData. */
+export interface ResolvedRunState {
+  version: GameVersion | null;
+  seed: string | null;
+  items: ItemData[];
+  floor: { stage: number; stageType: number } | null;
+}
+
+/** API exposed via contextBridge to the renderer. Each listener returns an unsubscribe function. */
+export interface RendererApi {
+  onItemPickup: (cb: (data: { item: ItemData | null }) => void) => () => void;
+  onItemRemoval: (cb: (data: { itemId: number }) => void) => () => void;
+  onRunReset: (cb: (data: { seed: string | null }) => void) => () => void;
+  onFloorChange: (cb: (data: { stage: number; stageType: number }) => void) => () => void;
+  getInitialState: () => Promise<ResolvedRunState>;
+}

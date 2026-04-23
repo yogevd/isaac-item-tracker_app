@@ -1,5 +1,6 @@
-import { app, shell, BrowserWindow, ipcMain } from 'electron'
+import { app, shell, BrowserWindow, ipcMain, protocol, net } from 'electron'
 import { join } from 'path'
+import { pathToFileURL } from 'url'
 import { electronApp, optimizer, is } from '@electron-toolkit/utils'
 import icon from '../../resources/icon.png?asset'
 import { ItemDatabase } from './database/item-database'
@@ -7,9 +8,14 @@ import { findLogPath } from './log/log-finder'
 import { LogWatcher } from './log/log-watcher'
 import { RunStateManager } from './log/run-state'
 import { IPC_CHANNELS } from '../shared/types'
+import type { ItemData } from '../shared/types'
+
+// Register asset:// scheme before app is ready so the renderer can load item icons.
+protocol.registerSchemesAsPrivileged([
+  { scheme: 'asset', privileges: { secure: true, standard: true, supportFetchAPI: true, bypassCSP: true } },
+])
 
 function createWindow(): void {
-  // Create the browser window.
   const mainWindow = new BrowserWindow({
     width: 900,
     height: 670,
@@ -33,8 +39,6 @@ function createWindow(): void {
     return { action: 'deny' }
   })
 
-  // HMR for renderer base on electron-vite cli.
-  // Load the remote URL for development or the local html file for production.
   if (is.dev && process.env['ELECTRON_RENDERER_URL']) {
     mainWindow.loadURL(process.env['ELECTRON_RENDERER_URL'])
   } else {
@@ -42,16 +46,18 @@ function createWindow(): void {
   }
 }
 
-// This method will be called when Electron has finished
-// initialization and is ready to create browser windows.
-// Some APIs can only be used after this event occurs.
 app.whenReady().then(() => {
-  // Set app user model id for windows
   electronApp.setAppUserModelId('com.electron')
 
-  // Default open or close DevTools by F12 in development
   app.on('browser-window-created', (_, window) => {
     optimizer.watchWindowShortcuts(window)
+  })
+
+  // Serve item icons via asset:// → resources/data/
+  const resourcesDataPath = join(app.getAppPath(), 'resources', 'data')
+  protocol.handle('asset', (request) => {
+    const urlPath = decodeURIComponent(new URL(request.url).pathname)
+    return net.fetch(pathToFileURL(join(resourcesDataPath, urlPath)).toString())
   })
 
   // Load item database at startup
@@ -62,9 +68,13 @@ app.whenReady().then(() => {
   } catch (err) {
     console.error('[startup] Failed to load ItemDatabase:', err)
   }
-  void db // Phase 3 will use db to resolve item IDs to full ItemData before sending to renderer
 
-  // --- Log Pipeline (Phase 2) ---
+  const resolveItem = (itemId: number): ItemData | null => {
+    if (!db) return null
+    return db.lookup(itemId, stateManager.getState().version ?? 'repentance+')
+  }
+
+  // --- Log Pipeline ---
   const stateManager = new RunStateManager()
   const logPath = findLogPath()
 
@@ -79,13 +89,12 @@ app.whenReady().then(() => {
       (event) => {
         stateManager.applyEvent(event)
 
-        // Push to renderer window
         const win = BrowserWindow.getAllWindows()[0]
         if (!win) return
 
         switch (event.type) {
           case 'item-pickup':
-            win.webContents.send(IPC_CHANNELS.ITEM_PICKUP, { itemId: event.itemId })
+            win.webContents.send(IPC_CHANNELS.ITEM_PICKUP, { item: resolveItem(event.itemId) })
             break
           case 'item-removal':
             win.webContents.send(IPC_CHANNELS.ITEM_REMOVAL, { itemId: event.itemId })
@@ -100,12 +109,10 @@ app.whenReady().then(() => {
             })
             break
           case 'version-detected':
-            // Version is tracked in state but not pushed as a separate IPC event
             break
         }
       },
       () => {
-        // onTruncation: game restarted, reset state and notify renderer
         stateManager.reset()
         const win = BrowserWindow.getAllWindows()[0]
         if (win) {
@@ -117,12 +124,15 @@ app.whenReady().then(() => {
     console.warn('[startup] No log.txt found — start the game to begin tracking')
   }
 
-  // Handle GET_INITIAL_STATE request from renderer (invoked once on mount)
+  // Return resolved initial state so renderer doesn't need the item database
   ipcMain.handle(IPC_CHANNELS.GET_INITIAL_STATE, () => {
-    return stateManager.getState()
+    const state = stateManager.getState()
+    const resolvedItems = state.items
+      .map((id) => resolveItem(id))
+      .filter((item): item is ItemData => item !== null)
+    return { ...state, items: resolvedItems }
   })
 
-  // Clean up watcher on quit
   app.on('before-quit', () => {
     logWatcher?.stop()
   })
@@ -130,20 +140,12 @@ app.whenReady().then(() => {
   createWindow()
 
   app.on('activate', function () {
-    // On macOS it's common to re-create a window in the app when the
-    // dock icon is clicked and there are no other windows open.
     if (BrowserWindow.getAllWindows().length === 0) createWindow()
   })
 })
 
-// Quit when all windows are closed, except on macOS. There, it's common
-// for applications and their menu bar to stay active until the user quits
-// explicitly with Cmd + Q.
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
     app.quit()
   }
 })
-
-// In this file you can include the rest of your app's specific main process
-// code. You can also put them in separate files and require them here.
